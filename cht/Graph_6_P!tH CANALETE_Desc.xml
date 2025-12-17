@@ -1,0 +1,44 @@
+<Chart Palette="Pastel" BuildNumber="3.6.0.1634" BackColor="240,240,240">
+    <Series>
+        <Series Name="CANALETE,U2_Potencia_Activa_Kw:  U2/Potencia_Activa_Kw" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CANALETE,U1_Potencia_Activa_Kw:  U1/Potencia_Activa_Kw" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CANALETE,Nivel_de_Toma:  Nivel_de_Toma" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,0,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CANALETE,Nivel_de_Embalse:  Nivel_de_Embalse" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,255,0" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255" Name="Default">
+            <Area3DStyle Enable3D="True" WallWidth="10"
+                XAngle="30" YAngle="30"/>
+            <AxisX>
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisX>
+            <AxisY Minimum="-20" Maximum="10000" Increment="0.00">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisY>
+            <AxisY2 Minimum="252" Maximum="265" Increment="0.00">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True"/>
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True"  LegendStyle="Column" BackColor="Transparent"
+            BorderColor="Transparent" Alignment="Center" Docking="Bottom">
+        </Legend>
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="P.H CANALETE">
+        </Title>
+        <Title Name="TitleLeft" Text="POTENCIA (MW)" Docking="Left">
+        </Title>
+        <Title Name="TitleRight" Text="NIVEL (m.s.n.m)" Docking="Right">
+        </Title>
+    </Titles>
+</Chart>

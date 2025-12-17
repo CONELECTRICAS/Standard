@@ -1,0 +1,40 @@
+1, GENERAL, General
+1, GENERACION_TOTAL, Generacion Total
+1, Control de Plantas
+	2, Aguas Zarcas, Aguas Zarcas
+	2, Chocosuela, Chocosuelas
+	2, POCOSOL1, Pocosol
+	2, Bijagua, Bijagua
+	2, Cubujuqui, Cubujuqui
+	2, Dona Julia, Dona Julia
+	2, ESPERANZA, Esperanza
+	2, SLORENZO2, San Lorenzo
+	2, Platanar, Platanar
+	2, CANALETE1, Canalete
+	2, PERN, Eolico Rio Naranjo
+	2, CACAO, Eolico Cacao
+	2, PELS, Eolico Los Santos
+	2, SOLAR, Juanilama
+	2, SolarCooperativo, Solar Cooperativo
+	2, Huacas, Solar Huacas
+	2, Valle Escondido, Valle Escondido
+	2, Rio Lajas, Rio Lajas
+1, Medicion
+	2, SLORENZO3, CM San Lorenzo
+	2, SLORENZO1, Linea San Lorenzo
+	2, MEDICIONES_POCOSOL, Pocosol
+	2, LESCA, Coopelesca
+	2, GUANA, Coopeguanacaste
+	2, CAR, Coopealfaroruiz
+1, Maximas
+	2, Maximas Diarias, Maximas
+	2, Maximas Guana, Maximas Guanacaste
+1, LIMITES, Limites
+1, Niveles, Niveles
+1, COMUNICACION, Comunicacion
+1, MET, Meteorologia
+1, FACTURACION, Facturacion
+1, CENCE, Variables ICCP
+1, Reportes, Reportes
+1, FACTURACION PME, Facturacion PME
+1, FACTURACION COOPELESCA, Facturacion Coopelesca

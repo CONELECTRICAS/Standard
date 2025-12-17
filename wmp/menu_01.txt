@@ -1,0 +1,4 @@
+$title="Reconfigure"
+$pb_columns=2
+#4," arrancar "
+#3," detener "

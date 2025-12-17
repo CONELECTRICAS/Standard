@@ -1,0 +1,13 @@
+<Graph Title="P.H CANALETE" Datatset="17" Width="1936" Height="1096">
+    <WindowPosition X="0" Y="-24" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="863"/>
+    <Series>
+        <Point Id="300937" Qualifier="A" SeriesName="CANALETE,Nivel_de_Embalse:  Nivel_de_Embalse" />
+        <Point Id="300938" Qualifier="A" SeriesName="CANALETE,Nivel_de_Toma:  Nivel_de_Toma" />
+        <Point Id="300962" Qualifier="A" SeriesName="CANALETE,U1_Potencia_Activa_Kw:  U1/Potencia_Activa_Kw" />
+        <Point Id="300991" Qualifier="A" SeriesName="CANALETE,U2_Potencia_Activa_Kw:  U2/Potencia_Activa_Kw" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

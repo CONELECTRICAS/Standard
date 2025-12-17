@@ -1,0 +1,14 @@
+<Graph Title="HIDROZARCAS" Datatset="16" Width="1936" Height="1096">
+    <WindowPosition X="0" Y="-24" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="886"/>
+    <Series>
+        <Point Id="300320" Qualifier="A" SeriesName="ICCP_PH_PRIVADAS_LESCA,PH_HIDROZARCAS_kW_RT:  Potencia Real Instantanea (kW)" />
+        <Point Id="300872" Qualifier="A" SeriesName="HIDROZARCAS_U1,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" />
+        <Point Id="301019" Qualifier="A" SeriesName="HIDROZARCAS_U2,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" />
+        <Point Id="301050" Qualifier="A" SeriesName="HIDROZARCAS_U3,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" />
+        <Point Id="301057" Qualifier="A" SeriesName="HIDROZARCAS_U1,NIVEL_EMBALSE:  Nivel Embalse" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="16" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

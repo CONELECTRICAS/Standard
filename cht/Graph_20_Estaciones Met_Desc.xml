@@ -1,0 +1,43 @@
+﻿<Chart Palette="Pastel" BuildNumber="25.2.220.1" BackColor="255,255,255,255">
+    <Misc TimeWindow="0" DataBreaking="False" ShowLabel="True" XAxisRotation="90" ValueFormat="+0.0000;-0.0000; 0.0000" SampleRate="0" UseZeroAxis="False" DataEditorOnStartup="False" SideBySideView="False" />
+    <Series>
+        <Series Name="EST_METEREOLOG_SN_LORENZO,ASL_PRECIPITACION:  Precipitacion (mm) -- TM525 -- Ultimos 5 minutos" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,0,205,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="1" ShowValues="True" />
+        <Series Name="EST_METEREOLOG_ANTECAM_AG,AAG_PRECIPITACION:  Precipitacion (mm) -- TM525 -- Ultimos 5 minutos..." XValueType="DateTime" YValueType="Double" ChartType="Line" Color="50,205,50,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="1" ShowValues="True" />
+        <Series Name="EST_METEREOLOG_SJ_MONTANA,SJ_MONT_PRECIPITACION:  Precipitacion (mm) -- TM525 -- Ultimos 5 minutos..." XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,140,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="1" ShowValues="True" />
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="211,211,211,255" Name="Default">
+            <Area3DStyle Enable3D="False" WallWidth="10" XAngle="30" YAngle="30" ZAngle="30" FieldOfViewAngle="30" DimX="100" DimY="50" DimZ="100" Distance="200" />
+            <AxisX FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid Enabled="False" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisX>
+            <AxisY FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid Enabled="False" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY>
+            <AxisY2 FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid Enabled="False" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True" LegendStyle="Column" BackColor="Transparent" BorderColor="Transparent" Alignment="Center" Background="211,211,211,255" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" Docking="Bottom" />
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="Estaciones Met" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" />
+    </Titles>
+</Chart>

@@ -1,0 +1,11 @@
+﻿<Graph Title="CONELECTRICAS R.L" Dataset="22" Datatset="22" Width="1591" Height="917">
+    <WindowPosition X="117" Y="98" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="1575" Height="797" />
+    <Series>
+        <Point Id="300035" Qualifier="A" SeriesName="ICCP_PLANTAS_CONELECT,SnLorenzo_kWtot_RT:  San Lorenzo" ShowValues="False" />
+        <Point Id="300044" Qualifier="A" SeriesName="ICCP_PLANTAS_CONELECT,Pocosol_kWtot_RT:  Pocosol" ShowValues="False" />
+        <Point Id="300105" Qualifier="A" SeriesName="ICCP_PLANTAS_CONELECT,Suma_CONELEC_RT:  SN LORENZO + POCOSOL --- RT" ShowValues="False" />
+    </Series>
+    <TimeLabel Year="0" Month="1" Day="1" Hour="1" Minute="1" Second="1" SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20" MaxSamples="500" />
+</Graph>

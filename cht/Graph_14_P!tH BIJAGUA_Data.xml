@@ -1,0 +1,18 @@
+<Graph Title="P.H BIJAGUA" Datatset="35" Width="1936" Height="1096">
+    <WindowPosition X="0" Y="-21" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="956"/>
+    <Series>
+        <Point Id="300759" Qualifier="A" SeriesName="BIJAGUA_SUB,NIVEL_DE_TOMA_BIJAGUA:  P.H.BIJAGUA - NIVEL DE TOMA BIJAGUA" />
+        <Point Id="300758" Qualifier="A" SeriesName="BIJAGUA_SUB,NIVEL_DE_TOMA_ZAPOTE:  P.H.BIJAGUA - NIVEL DE TOMA ZAPOTE" />
+        <Point Id="300757" Qualifier="A" SeriesName="BIJAGUA_SUB,NIVEL_DEL_EMBALSE:  P.H.BIJAGUA - NIVEL DEL EMBALSE" />
+        <Point Id="300750" Qualifier="A" SeriesName="BIJAGUA_SUB,POTENCIA_ACTIVA_LT_1_CANALETE:  P.H.BIJAGUA - POTENCIA ACTIVA LT 1 CANALETE" />
+        <Point Id="300743" Qualifier="A" SeriesName="BIJAGUA_SUB,POTENCIA_ACTIVA_LT_2_MIRAVALLES:  P.H.BIJAGUA - POTENCIA ACTIVA LT 2 MIRAVALLES" />
+        <Point Id="300702" Qualifier="A" SeriesName="BIJAGUA_G1,POTENCIA_ACTIVA_U1:  Potencia activa G1 BIJAGUA -- (kW)" />
+        <Point Id="300716" Qualifier="A" SeriesName="BIJAGUA_G2,POTENCIA_ACTIVA_U2:  Potencia activa G2 BIJAGUA -- (kW)" />
+        <Point Id="300731" Qualifier="A" SeriesName="BIJAGUA_MOD_MIRAVALLES,POTENCIA_ACTIVA_MOD_LT_BIJAGUA:  ST MIRAVALLES -  POTENCIA ACTIVA MODULO LT BIJAGUA" />
+        <Point Id="300735" Qualifier="A" SeriesName="BIJAGUA_MOD_MIRAVALLES,POTENCIA_ACTIVA_MOD_LT_CANALETE:  ST MIRAVALLES -  POTENCIA ACTIVA MODULO LT CANALETE" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

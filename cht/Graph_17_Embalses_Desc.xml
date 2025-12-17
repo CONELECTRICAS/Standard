@@ -1,0 +1,50 @@
+﻿<Chart Palette="Pastel" BuildNumber="2.18.215.2" BackColor="255,255,255,255">
+    <Misc TimeWindow="0" DataBreaking="False" ShowLabel="True" XAxisRotation="0" ValueFormat="+0.0000;-0.0000; 0.0000" SampleRate="1" UseZeroAxis="False" DataEditorOnStartup="False" SideBySideView="False" />
+    <Series>
+        <Series Name="CHOCO_1,CHOCO_1_VOLUMEN_EMBALSE:  Volumen Choco 1" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="128,128,128,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="CHOCO_2G1,CHOCO_2_VOLUMEN_EMBALSE:  Volumen embalse" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="205,92,92,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="CHOCO_3,CHOCO_3_VOLUMEN_EMBALSE:  Volumen embalse" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,140,0,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="CUBUJ_SE,Nivel_Embalse:  Nivel Embalse (m.s.n.m)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="189,183,107,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="HIDROZARCAS_U1,NIVEL_EMBALSE:  Nivel Embalse" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="ESPERANZA_TOMA,NIVEL_EMBALSE:  Nivel del Embalse" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="127,255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="CANALETE,Nivel_de_Embalse:  Nivel_de_Embalse" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="64,224,208,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="BIJAGUA_SUB,NIVEL_DEL_EMBALSE:  P.H.BIJAGUA - NIVEL DEL EMBALSE" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="30,144,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="OPC_POCOSOL,Nivel_Antecamara_Pocosol:  Nivel Antecamara Pocosol" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="165,42,42,255" ShadowOffset="1" YAxisType="Primary" BorderColor="128,128,128,255" BorderWidth="4" ShowValues="False" />
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="211,211,211,255" Name="Default">
+            <Area3DStyle Enable3D="False" DimX="100" DimY="50" DimZ="100" Distance="200" />
+            <AxisX FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid Enabled="False" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" />
+            </AxisX>
+            <AxisY FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid Enabled="False" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" />
+            </AxisY>
+            <AxisY2 FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid Enabled="False" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True" LegendStyle="Column" BackColor="Transparent" BorderColor="Transparent" Alignment="Center" Background="211,211,211,255" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" Docking="Bottom" />
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="Embalses" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" />
+        <Title Name="TitleLeft" Text="msnm" Docking="Left" />
+    </Titles>
+</Chart>

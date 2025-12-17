@@ -1,0 +1,50 @@
+﻿<Chart Palette="Pastel" BuildNumber="25.2.220.1" BackColor="240,240,240,255">
+    <Misc TimeWindow="0" DataBreaking="False" ShowLabel="True" XAxisRotation="0" ValueFormat="+0.0000;-0.0000; 0.0000" SampleRate="0" UseZeroAxis="False" DataEditorOnStartup="False" SideBySideView="False" />
+    <Series>
+        <Series Name="CHOCO_1,CHOCO_1_POT_ACTIVA:  Chocosuela 1 (kW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="CHOCO_2G1,CHOCO_2G1_POT_ACTIVA: Chocosuela 2 U1 (kW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,0,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="CHOCO_2G2,CHOCO_2G2_POT_ACTIVA: Chocosuela 2 U2 (kW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,0,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="CHOCO_3,CHOCO_3_POT_ACTIVA: Chocosuela 3 (kW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,0,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="ICCP_PLANTAS_CONELECT,SnLorenzo_kWtot_RT: San Lorenzo" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="ESPH,ESPH_MW_CIR_INDUSTRIAL: Medici¢n instant nea de Potencia Activa consumida por CIRCUITO INDUSTRIAL" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,255,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="CUBUJ_G1,POTENCIA_ACTIVA: POTENCIA ACTIVA (MW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,0,128,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="CUBUJ_G2,POTENCIA_ACTIVA: POTENCIA ACTIVA (MW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,255,128,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="ICCP_PLANTAS_CONELECT,Pocosol_kWtot_RT: Pocosol" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="128,255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="ICCP_PELS_SANTOS,PELS_kWtot_RT: Generacion PELS" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="128,0,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255,255" Name="Default">
+            <Area3DStyle Enable3D="False" WallWidth="10" XAngle="30" YAngle="30" ZAngle="30" FieldOfViewAngle="30" DimX="100" DimY="50" DimZ="100" Distance="200" />
+            <AxisX FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisX>
+            <AxisY Minimum="0" Maximum="27000" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="64,0,128,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY>
+            <AxisY2 Minimum="-10" Maximum="10" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True" LegendStyle="Column" BackColor="Transparent" BorderColor="Transparent" Alignment="Center" Background="211,211,211,255" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" Docking="Bottom" />
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="POTENCIAS" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" />
+    </Titles>
+</Chart>

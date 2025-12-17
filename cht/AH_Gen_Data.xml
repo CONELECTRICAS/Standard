@@ -1,0 +1,12 @@
+<Graph Title="Gen" Datatset="-1" Width="580" Height="309">
+    <WindowPosition X="543" Y="653" Maximized="False"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="564" height="213"/>
+    <Series>
+        <Point Id="300764" Qualifier="A" SeriesName="CALCULOS,DEMANDA_TOTAL:  Demanda TOTAL" />
+        <Point Id="300763" Qualifier="A" SeriesName="CALCULOS,GENERAC_TOTAL:  Generacion TOTAL " />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="15" LabelSpacing="4" PointSpacing="20"/>
+    <RealTime SampleRate="15" SaveTracePoints="False"/>
+</Graph>

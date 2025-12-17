@@ -1,0 +1,11 @@
+﻿<Graph Title="Estaciones Met" Dataset="20" Datatset="20" Width="2574" Height="1454">
+    <WindowPosition X="-2215" Y="-2" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="2558" Height="1334" />
+    <Series>
+        <Point Id="300691" Dataset="20" Qualifier="A" SeriesName="EST_METEREOLOG_SN_LORENZO,ASL_PRECIPITACION:  Precipitacion (mm) -- TM525 -- Ultimos 5 minutos" ShowValues="True" />
+        <Point Id="300632" Dataset="20" Qualifier="A" SeriesName="EST_METEREOLOG_ANTECAM_AG,AAG_PRECIPITACION:  Precipitacion (mm) -- TM525 -- Ultimos 5 minutos..." ShowValues="True" />
+        <Point Id="302864" Dataset="20" Qualifier="A" SeriesName="EST_METEREOLOG_SJ_MONTANA,SJ_MONT_PRECIPITACION:  Precipitacion (mm) -- TM525 -- Ultimos 5 minutos..." ShowValues="True" />
+    </Series>
+    <TimeLabel Year="0" Month="1" Day="1" Hour="1" Minute="1" Second="1" SamplesPerPoint="1" LabelSpacing="60" PointSpacing="1" MaxSamples="300" />
+</Graph>

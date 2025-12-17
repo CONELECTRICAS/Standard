@@ -1,0 +1,10 @@
+<Graph Title="CURVA RECORTADA COOPEGUANACASTE R.L" Datatset="14" Width="1296" Height="1000">
+    <WindowPosition X="461" Y="130" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1280" height="887"/>
+    <Series>
+        <Point Id="300397" Qualifier="A" SeriesName="CALCULOS,MARCA_ICE_RT_GUANA:  DEMANDA - CANALETE - %CONELECT" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="0"
+        SamplesPerPoint="1" LabelSpacing="3" PointSpacing="20"/>
+</Graph>

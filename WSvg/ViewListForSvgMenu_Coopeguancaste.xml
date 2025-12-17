@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Views>
+<menu>
+<header>Coopeguancaste</header>
+    <item onactivate="displayViewsList('Principal')">Principal</item>
+    <item onactivate="displayViewsList('Tiempo!uReal')">Tiempo_Real</item>
+</menu>
+</Views>

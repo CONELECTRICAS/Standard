@@ -1,0 +1,9 @@
+﻿<Graph Title="Parque Solar Cooperativo - Potencia" Dataset="0" Datatset="0" Width="1934" Height="1094">
+    <WindowPosition X="410" Y="319" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="1918" Height="974" />
+    <Series>
+        <Point Id="300035" Qualifier="A" SeriesName="SalidaTemp,PotenciaSalida: " ShowValues="False" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="0" SamplesPerPoint="1" LabelSpacing="60" PointSpacing="1" MaxSamples="50" />
+</Graph>

@@ -1,0 +1,13 @@
+﻿<Graph Title="COOPEALFARORUIZ" Dataset="23" Datatset="23" Width="2573" Height="1453">
+    <WindowPosition X="-1854" Y="118" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="2557" Height="1333" />
+    <Series>
+        <Point Id="301529" Dataset="23" Qualifier="A" SeriesName="CALCULOS,CONSUMO_CAR_RT:  Consumo" ShowValues="False" />
+        <Point Id="301091" Dataset="23" Qualifier="A" SeriesName="ION_SUB_LAGUNA,kWtot:  Total kW" ShowValues="False" />
+        <Point Id="301154" Dataset="23" Qualifier="A" SeriesName="ION_SUB_ZARCERO,kWtot:  Total kW" ShowValues="False" />
+        <Point Id="300172" Dataset="23" Qualifier="A" SeriesName="CALCULOS,PORCION_CONELEC_ALFAR_RT:  Conelectricas" ShowValues="False" />
+        <Point Id="301531" Dataset="23" Qualifier="A" SeriesName="CALCULOS,MARCA_ICE_RT_CAR:  Marca ICE" ShowValues="False" />
+    </Series>
+    <TimeLabel Year="0" Month="1" Day="0" Hour="1" Minute="1" Second="0" SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20" />
+</Graph>

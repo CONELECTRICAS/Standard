@@ -1,0 +1,47 @@
+﻿<Chart Palette="Pastel" BuildNumber="22.11.916.1" BackColor="240,240,240,255">
+    <Misc TimeWindow="0" DataBreaking="False" ShowLabel="True" XAxisRotation="0" ValueFormat="+0.0000;-0.0000; 0.0000" SampleRate="0" UseZeroAxis="False" DataEditorOnStartup="False" SideBySideView="False" />
+    <Series>
+        <Series Name="ICCP_PLANTAS_CONELECT,SnLorenzo_kWtot_RT:  San Lorenzo" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="SL_U1,PotenciaActiva_U1: CHSL U1 (kW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,0,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="SL_U2,PotenciaActiva_U2: CHSL U2 (kW)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,0,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="SL_Subestacion,Nivel_Vertedero_Toma: Nivel de Toma (cm)" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,0,255,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="SL_Subestacion,rAC_Nivel: Antecamara -- Nivel de Antecamara" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,255,0,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64,255" BorderWidth="1" ShowValues="False" />
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255,255" Name="Default">
+            <Area3DStyle Enable3D="False" WallWidth="10" XAngle="30" YAngle="30" ZAngle="30" FieldOfViewAngle="30" DimX="100" DimY="50" DimZ="100" Distance="200" />
+            <AxisX FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="False" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisX>
+            <AxisY Minimum="0" Maximum="20000" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY>
+            <AxisY2 Minimum="320" Maximum="332" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True" LegendStyle="Column" BackColor="Transparent" BorderColor="Transparent" Alignment="Center" Background="211,211,211,255" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" Docking="Bottom" />
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="SAN LORENZO" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" />
+        <Title Name="TitleLeft" Text="POTENCIA" Docking="Left" />
+        <Title Name="TitleRight" Text="NIVEL (msnm)" Docking="Right" />
+    </Titles>
+</Chart>

@@ -1,0 +1,80 @@
+<Chart Palette="Pastel" BuildNumber="7.1.0.1812" BackColor="240, 240, 240" Width="1244" Height="668">
+  <Series>
+    <Series Name="ICCP_ICE_RECIBIR,ICE_IG_DEMANDA_SEN:  Demanda nacional de electricidad." XValueType="DateTime" YValueType="Double" PaletteCustomColors="" ShadowOffset="1" ChartType="Line" Color="Lime" BorderColor="64, 64, 64" ToolTip="#VALX{M/d/yyyy H:mm:ss},#VAL">
+      <Points>
+        <DataPoint XValue="42111.361111111109" YValues="1359.096191" />
+        <DataPoint XValue="42111.357638888891" YValues="1343.278442" />
+        <DataPoint XValue="42111.354166666664" YValues="1332.817017" />
+        <DataPoint XValue="42111.350694444445" YValues="1332.718872" />
+        <DataPoint XValue="42111.347222222219" YValues="1318.421631" />
+        <DataPoint XValue="42111.34375" YValues="1311.337158" />
+        <DataPoint XValue="42111.340277777781" YValues="1308.416504" />
+        <DataPoint XValue="42111.336805555555" YValues="1292.43457" />
+        <DataPoint XValue="42111.333333333336" YValues="1274.199341" />
+        <DataPoint XValue="42111.329861111109" YValues="1263.333618" />
+        <DataPoint XValue="42111.326388888891" YValues="1276.166626" />
+        <DataPoint XValue="42111.322916666664" YValues="1266.602905" />
+        <DataPoint XValue="42111.319444444445" YValues="1255.843994" />
+        <DataPoint XValue="42111.315972222219" YValues="1256.22522" />
+        <DataPoint XValue="42111.3125" YValues="1249.527832" />
+        <DataPoint XValue="42111.309027777781" YValues="1243.515869" />
+        <DataPoint XValue="42111.305555555555" YValues="1235.264282" />
+        <DataPoint XValue="42111.302083333336" YValues="1230.325439" />
+        <DataPoint XValue="42111.298611111109" YValues="1228.447876" />
+        <DataPoint XValue="42111.295138888891" YValues="1214.624756" />
+        <DataPoint XValue="42111.291666666664" YValues="1200.930298" />
+        <DataPoint XValue="42111.288194444445" YValues="1193.89978" />
+        <DataPoint XValue="42111.284722222219" YValues="1193.947754" />
+        <DataPoint XValue="42111.28125" YValues="1202.927002" />
+        <DataPoint XValue="42111.277777777781" YValues="1210.520874" />
+        <DataPoint XValue="42111.274305555555" YValues="1222.160522" />
+        <DataPoint XValue="42111.270833333336" YValues="1234.663574" />
+        <DataPoint XValue="42111.267361111109" YValues="1256.404175" />
+        <DataPoint XValue="42111.263888888891" YValues="1272.942749" />
+        <DataPoint XValue="42111.260416666664" YValues="1284.678589" />
+        <DataPoint XValue="42111.256944444445" YValues="1270.860229" />
+        <DataPoint XValue="42111.253472222219" YValues="1244.772217" />
+        <DataPoint XValue="42111.25" YValues="1215.953491" />
+        <DataPoint XValue="42111.246527777781" YValues="1217.639038" />
+        <DataPoint XValue="42111.243055555555" YValues="1209.212891" />
+        <DataPoint XValue="42111.239583333336" YValues="1195.273071" />
+        <DataPoint XValue="42111.236111111109" YValues="1177.353882" />
+        <DataPoint XValue="42111.232638888891" YValues="1161.155151" />
+        <DataPoint XValue="42111.229166666664" YValues="1140.22583" />
+        <DataPoint XValue="42111.225694444445" YValues="1129.892822" />
+        <DataPoint XValue="42111.222222222219" YValues="1120.284058" />
+        <DataPoint XValue="42111.21875" YValues="1118.304199" />
+        <DataPoint XValue="42111.215277777781" YValues="1104.079834" />
+        <DataPoint XValue="42111.211805555555" YValues="1074.062622" />
+        <DataPoint XValue="42111.208333333336" YValues="1044.216064" />
+        <DataPoint XValue="42111.204861111109" YValues="1030.263062" />
+        <DataPoint XValue="42111.201388888891" YValues="1016.034729" />
+        <DataPoint XValue="42111.197916666664" YValues="1005.575867" />
+        <DataPoint XValue="42111.194444444445" YValues="992.220093" />
+        <DataPoint XValue="42111.190972222219" YValues="982.768677" />
+      </Points>
+    </Series>
+  </Series>
+  <ChartAreas>
+    <ChartArea BackColor="White" Name="Default">
+      <AxisY Maximum="1500" Minimum="750">
+      </AxisY>
+      <AxisX LabelsAutoFit="False">
+        <LabelStyle IntervalOffset="Auto" Interval="20" IntervalType="Minutes" Font="Arial, 8pt" FontAngle="-90" Format=" HH:mm:ss" />
+      </AxisX>
+      <AxisY2 Maximum="10" Minimum="-10">
+      </AxisY2>
+      <Area3DStyle Enable3D="True" WallWidth="10" />
+    </ChartArea>
+  </ChartAreas>
+  <Legends>
+    <Legend Name="Default" AutoFitText="False" LegendStyle="Column" BackColor="Transparent" BorderColor="Transparent" Font="Arial, 8pt" Alignment="Center" Docking="Bottom">
+    </Legend>
+  </Legends>
+  <Titles>
+    <Title Name="TitleTop" Text="DEMANDA NACIONAL">
+    </Title>
+    <Title Name="TitleLeft" Text="POTENCIA (MW)" Docking="Left">
+    </Title>
+  </Titles>
+</Chart>

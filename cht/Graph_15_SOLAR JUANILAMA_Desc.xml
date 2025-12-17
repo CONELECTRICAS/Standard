@@ -1,0 +1,47 @@
+﻿<Chart Palette="Pastel" BuildNumber="19.13.318.2" BackColor="240,240,240,255">
+    <Misc TimeWindow="0" DataBreaking="False" ShowLabel="True" XAxisRotation="0" ValueFormat="+0.0000;-0.0000; 0.0000" SampleRate="0" UseZeroAxis="False" DataEditorOnStartup="False" SideBySideView="False" />
+    <Series>
+        <Series Name="SOLAR_JUANILAMA,SJ_EST_MET_RADIAC_SOLAR:  SJ_EST_MET_RADIAC_SOLAR" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="0,0,255,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="SOLAR_JUANILAMA,SJ_INVERSOR_1_KW:  SJ_INVERSOR_1_KW" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="205,133,63,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="SOLAR_JUANILAMA,SJ_INVERSOR_2_KW:  SJ_INVERSOR_2_KW" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="255,0,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64,255" BorderWidth="4" ShowValues="False" />
+        <Series Name="SOLAR_JUANILAMA,SJ_EST_MET_TEMP_MODULO:  SJ_EST_MET_TEMP_PANEL" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="128,128,128,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="128,128,128,255" BorderWidth="1" ShowValues="False" />
+        <Series Name="SOLAR_JUANILAMA,SJ_EST_MET_TEMP_AMBIENTE:  SJ_EST_MET_TEMP_AMBIENTE" XValueType="DateTime" YValueType="Double" ChartType="Line" Color="128,128,128,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="128,128,128,255" BorderWidth="1" ShowValues="False" />
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255,255" Name="Default">
+            <Area3DStyle Enable3D="False" WallWidth="10" XAngle="30" YAngle="30" ZAngle="30" FieldOfViewAngle="30" DimX="100" DimY="50" DimZ="100" Distance="200" />
+            <AxisX FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisX>
+            <AxisY Minimum="0" Maximum="2400" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY>
+            <AxisY2 Minimum="0" Maximum="1000" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal">
+                <Bands0 UseBandLine="False" />
+                <Bands1 UseBandLine="False" />
+                <Bands2 UseBandLine="False" />
+                <Bands3 UseBandLine="False" />
+                <Bands4 UseBandLine="False" />
+                <MajorGrid LineWidth="1" LineColor="0,0,0,255" Enabled="True" MajorDataPattern="DashDot" MinorDataPattern="SmallDot" DivCount="4" LabelFormat="" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True" LegendStyle="Column" BackColor="Transparent" BorderColor="Transparent" Alignment="Center" Background="211,211,211,255" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" Docking="Bottom" />
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="SOLAR JUANILAMA" FontFamily="Segoe UI" FontSize="16" FontStyle="Normal" FontWeight="Normal" />
+        <Title Name="TitleLeft" Text="POTENCIA (kW)" Docking="Left" />
+        <Title Name="TitleRight" Text="RADIACION SOLAR" Docking="Right" />
+    </Titles>
+</Chart>

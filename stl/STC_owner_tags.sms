@@ -1,0 +1,13 @@
+
+
+! Symbol Table File: C:\Program Files\Quindar\Maps\Hamilton\standard\stl\stc_owner_tags.sms
+! NT WorldView Version: 1.10.0712
+! Date: July 19, 2010 11:09:23 AM
+SYMBOL_TABLE "stc_OWNER_TAGS"
+{
+    "flagfulltag",
+    "flagholdclosetag",
+    "flagholdopentag",
+    "flaginformational",
+};
+

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<tree>
+<entity Type = "Root" description = "Map Views">
+<contents>
+    <entity Type = "View" description="Tiempo_Real" name="Tiempo!uReal" mapID="Conelectricas_Datos"></entity>
+</contents>
+</entity>
+</tree>

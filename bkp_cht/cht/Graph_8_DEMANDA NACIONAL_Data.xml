@@ -1,0 +1,10 @@
+<Graph Title="DEMANDA NACIONAL" Datatset="21" Width="1936" Height="1056">
+    <WindowPosition X="837" Y="158" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="916"/>
+    <Series>
+        <Point Id="300834" Qualifier="A" SeriesName="ICCP_ICE_RECIBIR,ICE_IG_DEMANDA_SEN:  Demanda nacional de electricidad." />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

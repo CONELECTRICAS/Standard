@@ -1,0 +1,45 @@
+<Chart Palette="Pastel" BuildNumber="3.6.0.1634" BackColor="240,240,240">
+    <Series>
+        <Series Name="ICCP_PELS_SANTOS,PELS_kWtot_RT:  Potencia Real Instantanea" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,255,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CALCULOS,CONSUMO_SANTOS_RT:  Acosta + Lucha + Naranjito + Sub Reduct. 1 + PELS" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CALCULOS,GENERAC_TOTAL_SANTOS_RT:  Generacion RT Santos" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CALCULOS,MARCA_ICE_RT_SANTOS:  CONSUMO - %CONELECTRICAS" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CALCULOS,PORCION_CONELEC_SANTOS_RT:  Porcion correspondiente del aporte de CONELEC a SANTOS" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,255,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255" Name="Default">
+            <Area3DStyle Enable3D="True" WallWidth="10"
+                XAngle="30" YAngle="30"/>
+            <AxisX>
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisX>
+            <AxisY Minimum="-10000" Maximum="24000" Increment="0.00">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisY>
+            <AxisY2 Minimum="-10" Maximum="10" Increment="1.00">
+                <MajorGrid Enabled="False" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True"  LegendStyle="Column" BackColor="Transparent"
+            BorderColor="Transparent" Alignment="Center" Docking="Bottom">
+        </Legend>
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="COOPESANTOS">
+        </Title>
+        <Title Name="TitleLeft" Text="POTENCIA (kW)" Docking="Left">
+        </Title>
+    </Titles>
+</Chart>

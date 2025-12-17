@@ -1,0 +1,13 @@
+<Graph Title="CUBUJUQUI" Datatset="5" Width="1936" Height="1096">
+    <WindowPosition X="0" Y="-26" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="898"/>
+    <Series>
+        <Point Id="300010" Qualifier="A" SeriesName="CUBUJ_G1,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" />
+        <Point Id="300017" Qualifier="A" SeriesName="CUBUJ_G2,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" />
+        <Point Id="300055" Qualifier="A" SeriesName="ICCP_DEMANDA_LESCA,Cubujuq_kWtot_RT:  Potencia Real Instantanea" />
+        <Point Id="300108" Qualifier="A" SeriesName="CUBUJ_SE,Nivel_Embalse:  Nivel Embalse (m.s.n.m)" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

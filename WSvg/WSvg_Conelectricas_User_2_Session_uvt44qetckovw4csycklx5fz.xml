@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<svg id="root" xmlns = "http://www.w3.org/2000/svg" width="100%" height="100%" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" onload="init(evt)" > 
+<script id="scrJava" xlink:href="javaScriptHtml5Svg.js" />
+<script id="scrJavaDateFormat" xlink:href="javaScriptDateFormat.js" />
+<title>SVG map</title>
+<g id = "start" next="0" previous="0" printMode="0" displayBackground="0" Time="2016/1/22 11:48:19">
+<rect id="rectStart" x="0" y="0" width="1424" height="911" style="fill:#000000; stroke:#000000; stroke-width:1"/>
+<g transform="matrix(1 0 0 -1 0 911)">
+<g transform="scale(1,-1) translate(0,-1684)">
+<g transform="rotate(-0.000000,705,842)">
+<text x="705" y="842" style="stroke: #ff8000; stroke-width: 0; fill: #ff8000; text-anchor: Middle;baseline-shift: -33%; font-size:56px; font-family:Arial;">SECTOR EL&#201;CTRICO COOPERATIVO
+</text></g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-54)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/Logo Conelectricas.jpg" x="146" y="-22" width="151" height="54" preserveAspectRatio="none" />
+</g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-519)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/barras.jpg" x="736" y="-170" width="519" height="519" preserveAspectRatio="none" />
+</g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-520)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/pastel.JPG" x="165" y="-169" width="519" height="520" preserveAspectRatio="none" />
+</g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-69)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/LOGO_GUANACASTE_NEGRO.jpg" x="304" y="-18" width="138" height="69" preserveAspectRatio="none" />
+</g></g>
+<a onclick="OnClickViewPushbutton(evt,'Tiempo!uReal','413A20')"  >
+<g>
+<g>
+<g transform="scale(1,-1) translate(0,-124)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/SIGUIENTE_BOTON.JPG" x="1160" y="-26" width="93" height="124" preserveAspectRatio="none" />
+</g></g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</a>
+<g transform="scale(1,-1) translate(0,-1422)">
+<g transform="rotate(-0.000000,238,711)">
+<text x="238" y="711" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:36px; font-family:Arial;">Aporte Energ&#237;a 2014
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-1422)">
+<g transform="rotate(-0.000000,839,711)">
+<text x="839" y="711" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:36px; font-family:Arial;">Potencia Instalada
+</text></g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-72)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/logo_coopesantos.jpg" x="449" y="-22" width="173" height="72" preserveAspectRatio="none" />
+</g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-72)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/CAR.jpg" x="645" y="-21" width="145" height="72" preserveAspectRatio="none" />
+</g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-75)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/Coopelesca_Logo.jpg" x="808" y="-22" width="173" height="75" preserveAspectRatio="none" />
+</g></g>
+</g>
+</g>
+</svg>

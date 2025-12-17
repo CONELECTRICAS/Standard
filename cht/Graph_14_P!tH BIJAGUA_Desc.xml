@@ -1,0 +1,59 @@
+<Chart Palette="Pastel" BuildNumber="3.6.0.1634" BackColor="240,240,240">
+    <Series>
+        <Series Name="BIJAGUA_MOD_MIRAVALLES,POTENCIA_ACTIVA_MOD_LT_CANALETE:  ST MIRAVALLES -  POTENCIA ACTIVA MODULO LT CANALETE" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="128,255,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_MOD_MIRAVALLES,POTENCIA_ACTIVA_MOD_LT_BIJAGUA:  ST MIRAVALLES -  POTENCIA ACTIVA MODULO LT BIJAGUA" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,255,128" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_G2,POTENCIA_ACTIVA_U2:  Potencia activa G2 BIJAGUA -- (kW)" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,128" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_G1,POTENCIA_ACTIVA_U1:  Potencia activa G1 BIJAGUA -- (kW)" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_SUB,POTENCIA_ACTIVA_LT_2_MIRAVALLES:  P.H.BIJAGUA - POTENCIA ACTIVA LT 2 MIRAVALLES" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,255,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_SUB,POTENCIA_ACTIVA_LT_1_CANALETE:  P.H.BIJAGUA - POTENCIA ACTIVA LT 1 CANALETE" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_SUB,NIVEL_DEL_EMBALSE:  P.H.BIJAGUA - NIVEL DEL EMBALSE" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,0" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_SUB,NIVEL_DE_TOMA_ZAPOTE:  P.H.BIJAGUA - NIVEL DE TOMA ZAPOTE" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,0,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="BIJAGUA_SUB,NIVEL_DE_TOMA_BIJAGUA:  P.H.BIJAGUA - NIVEL DE TOMA BIJAGUA" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,255,0" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255" Name="Default">
+            <Area3DStyle Enable3D="True" WallWidth="10"
+                XAngle="30" YAngle="30"/>
+            <AxisX>
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisX>
+            <AxisY Minimum="-18000" Maximum="20000" Increment="0.00">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisY>
+            <AxisY2 Minimum="350" Maximum="450" Increment="0.00">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True"/>
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True"  LegendStyle="Column" BackColor="Transparent"
+            BorderColor="Transparent" Alignment="Center" Docking="Bottom">
+        </Legend>
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="P.H BIJAGUA">
+        </Title>
+        <Title Name="TitleLeft" Text="POTENCIA (kW)" Docking="Left">
+        </Title>
+        <Title Name="TitleRight" Text="NIVEL (msnm)" Docking="Right">
+        </Title>
+    </Titles>
+</Chart>

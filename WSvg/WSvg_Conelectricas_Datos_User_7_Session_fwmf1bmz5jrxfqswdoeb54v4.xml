@@ -1,0 +1,735 @@
+<?xml version="1.0"?>
+<svg id="root" xmlns = "http://www.w3.org/2000/svg" width="100%" height="100%" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" onload="init(evt)" > 
+<script id="scrJava" xlink:href="javaScriptHtml5Svg.js" />
+<script id="scrJavaDateFormat" xlink:href="javaScriptDateFormat.js" />
+<title>SVG map</title>
+<g id = "start" next="0" previous="0" printMode="0" displayBackground="0" Time="2016/3/16 7:18:16">
+<rect id="rectStart" x="0" y="0" width="1343" height="606" style="fill:#c0c0c0; stroke:#c0c0c0; stroke-width:1"/>
+<g transform="matrix(1 0 0 -1 0 606)">
+<polygon points="
+719 368
+859 368
+859 318
+719 318
+719 368
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+851 326
+719 326
+719 368
+851 368
+851 326
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+727 360
+851 360
+851 327
+727 327
+727 360
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+728 325
+720 318
+720 326
+728 325
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+851 359
+858 368
+851 368
+851 360
+851 359
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+275 499
+547 499
+547 419
+275 419
+275 499
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+540 427
+276 427
+276 499
+540 499
+540 427
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+283 491
+539 491
+539 427
+283 427
+283 491
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-946)">
+<g transform="rotate(-0.000000,303,473)">
+<text x="303" y="473" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">POTENCIA TOTAL SAN LORENZO
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-1134)">
+<g transform="rotate(-0.000000,503,567)">
+<text x="503" y="567" style="stroke: #ff8000; stroke-width: 0; fill: #ff8000; text-anchor: Start; font-size:45px; font-family:Corbel;">CONELECTRICAS R.L
+</text></g></g>
+<polyline points="
+257 532
+560 532
+560 7
+257 7
+257 532
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill: none;">
+</polyline>
+<polygon points="
+273 546
+544 546
+544 514
+273 514
+273 546
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-1048)">
+<g transform="rotate(-0.000000,289,524)">
+<text x="289" y="524" style="stroke: #ff8000; stroke-width: 0; fill: #ff8000; text-anchor: Start; font-size:17px; font-family:Arial;">INFORMACI&#211;N SAN LORENZO
+</text></g></g>
+<polyline points="
+715 530
+1018 530
+1018 206
+715 206
+715 530
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill: none;">
+</polyline>
+<polygon points="
+731 546
+1002 546
+1002 514
+731 514
+731 546
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-1048)">
+<g transform="rotate(-0.000000,766,524)">
+<text x="766" y="524" style="stroke: #ff8000; stroke-width: 0; fill: #ff8000; text-anchor: Start; font-size:17px; font-family:Arial;">INFORMACI&#211;N SIGIFREDO
+</text></g></g>
+<polygon points="
+283 427
+276 420
+275 427
+283 427
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+540 491
+547 499
+540 499
+540 491
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300035,'analogPoints')" onmouseout="OnMouseOutPid(evt,300035,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-884)">
+<g transform="rotate(-0.000000,387,442)">
+<text x="387" y="442" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">3.242
+</text></g></g>
+</a>
+<polygon points="
+732 499
+1004 499
+1004 420
+732 420
+732 499
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+996 427
+733 427
+733 499
+996 499
+996 427
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+740 491
+996 491
+996 427
+740 427
+740 491
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-946)">
+<g transform="rotate(-0.000000,760,473)">
+<text x="760" y="473" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">POTENCIA TOTAL SIGUIFREDO
+</text></g></g>
+<polygon points="
+740 427
+732 420
+732 427
+740 427
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+997 491
+1004 500
+997 499
+996 491
+997 491
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300044,'analogPoints')" onmouseout="OnMouseOutPid(evt,300044,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-876)">
+<g transform="rotate(-0.000000,812,438)">
+<text x="812" y="438" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">9.836
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-352)">
+<g transform="rotate(-0.000000,596,176)">
+<text x="596" y="176" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">NIVEL ANTECAMARA GATA
+</text></g></g>
+<polygon points="
+616 166
+756 166
+756 116
+616 116
+616 166
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+748 125
+616 125
+616 166
+748 166
+748 125
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+624 158
+748 158
+748 125
+624 125
+624 158
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+624 124
+617 117
+616 124
+624 124
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+748 158
+755 166
+748 166
+748 158
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300322,'analogPoints')" onmouseout="OnMouseOutPid(evt,300322,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-268)">
+<g transform="rotate(-0.000000,655,134)">
+<text x="655" y="134" style="stroke: #00ff00; stroke-width: 0; fill: #00ff00; text-anchor: Start; font-size:16px; font-family:Arial;">529,88
+</text></g></g>
+</a>
+<polygon points="
+276 399
+547 399
+547 319
+276 319
+276 399
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+540 326
+276 326
+276 399
+540 399
+540 326
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+283 391
+539 391
+539 327
+283 327
+283 391
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-744)">
+<g transform="rotate(-0.000000,344,372)">
+<text x="344" y="372" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">POTENCIA UNIDAD 1
+</text></g></g>
+<polygon points="
+283 326
+276 319
+275 327
+283 326
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+540 390
+547 399
+540 399
+540 391
+540 390
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300460,'analogPoints')" onmouseout="OnMouseOutPid(evt,300460,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-682)">
+<g transform="rotate(-0.000000,387,341)">
+<text x="387" y="341" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">0
+</text></g></g>
+</a>
+<polygon points="
+276 298
+547 298
+547 218
+276 218
+276 298
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+540 226
+276 226
+276 298
+540 298
+540 226
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+283 290
+539 290
+539 226
+283 226
+283 290
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-544)">
+<g transform="rotate(-0.000000,344,272)">
+<text x="344" y="272" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">POTENCIA UNIDAD 2
+</text></g></g>
+<polygon points="
+283 226
+276 218
+275 226
+283 226
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+540 290
+547 298
+540 298
+540 290
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300503,'analogPoints')" onmouseout="OnMouseOutPid(evt,300503,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-482)">
+<g transform="rotate(-0.000000,387,241)">
+<text x="387" y="241" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">3.274
+</text></g></g>
+</a>
+<polygon points="
+278 200
+550 200
+550 120
+278 120
+278 200
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+542 127
+279 127
+279 200
+542 200
+542 127
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+286 192
+542 192
+542 128
+286 128
+286 192
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-348)">
+<g transform="rotate(-0.000000,371,174)">
+<text x="371" y="174" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">NIVEL TOMA
+</text></g></g>
+<polygon points="
+286 127
+278 120
+278 128
+286 127
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+543 192
+550 200
+543 200
+542 192
+543 192
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300593,'analogPoints')" onmouseout="OnMouseOutPid(evt,300593,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-286)">
+<g transform="rotate(-0.000000,387,143)">
+<text x="387" y="143" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">-1
+</text></g></g>
+</a>
+<polygon points="
+277 99
+548 99
+548 19
+277 19
+277 99
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+541 26
+277 26
+277 99
+541 99
+541 26
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+285 91
+540 91
+540 27
+285 27
+285 91
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-146)">
+<g transform="rotate(-0.000000,343,73)">
+<text x="343" y="73" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">NIVEL ANTECAMARA
+</text></g></g>
+<polygon points="
+285 26
+277 19
+277 27
+285 26
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+541 91
+548 99
+541 99
+541 91
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300528,'analogPoints')" onmouseout="OnMouseOutPid(evt,300528,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-84)">
+<g transform="rotate(-0.000000,387,42)">
+<text x="387" y="42" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">329,07
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-754)">
+<g transform="rotate(-0.000000,721,377)">
+<text x="721" y="377" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">POTENCIA UNIDAD 1
+</text></g></g>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300882,'analogPoints')" onmouseout="OnMouseOutPid(evt,300882,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-676)">
+<g transform="rotate(-0.000000,786,338)">
+<text x="786" y="338" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">0,00
+</text></g></g>
+</a>
+<polygon points="
+733 300
+1004 300
+1004 220
+733 220
+733 300
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+997 228
+733 228
+733 300
+997 300
+997 228
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+741 292
+996 292
+996 228
+741 228
+741 292
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-548)">
+<g transform="rotate(-0.000000,804,274)">
+<text x="804" y="274" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">POTENCIA GATA
+</text></g></g>
+<polygon points="
+741 228
+733 221
+733 228
+741 228
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+997 292
+1004 301
+997 300
+997 292
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300855,'analogPoints')" onmouseout="OnMouseOutPid(evt,300855,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-484)">
+<g transform="rotate(-0.000000,853,242)">
+<text x="853" y="242" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">0
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-174)">
+<g transform="rotate(-0.000000,581,87)">
+<text x="581" y="87" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">NIVEL ANTECAMARA POCOSOL
+</text></g></g>
+<polygon points="
+616 77
+756 77
+756 27
+616 27
+616 77
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+748 35
+616 35
+616 77
+748 77
+748 35
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+624 69
+748 69
+748 36
+624 36
+624 69
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+625 34
+617 27
+617 35
+625 34
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+748 68
+755 77
+748 77
+748 69
+748 68
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300609,'analogPoints')" onmouseout="OnMouseOutPid(evt,300609,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-90)">
+<g transform="rotate(-0.000000,656,45)">
+<text x="656" y="45" style="stroke: #00ff00; stroke-width: 0; fill: #00ff00; text-anchor: Start; font-size:16px; font-family:Arial;">454,59
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-352)">
+<g transform="rotate(-0.000000,934,176)">
+<text x="934" y="176" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">NIVEL TOMA GATA
+</text></g></g>
+<polygon points="
+926 166
+1066 166
+1066 116
+926 116
+926 166
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+1058 125
+926 125
+926 166
+1058 166
+1058 125
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+934 158
+1058 158
+1058 125
+934 125
+934 158
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+935 124
+927 117
+927 124
+935 124
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+1058 158
+1065 166
+1058 166
+1058 158
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300611,'analogPoints')" onmouseout="OnMouseOutPid(evt,300611,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-266)">
+<g transform="rotate(-0.000000,963,133)">
+<text x="963" y="133" style="stroke: #00ff00; stroke-width: 0; fill: #00ff00; text-anchor: Start; font-size:16px; font-family:Arial;">531,18
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-174)">
+<g transform="rotate(-0.000000,920,87)">
+<text x="920" y="87" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">NIVEL TOMA POCOSOL
+</text></g></g>
+<polygon points="
+926 77
+1066 77
+1066 27
+926 27
+926 77
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+1058 35
+927 35
+927 77
+1058 77
+1058 35
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+935 69
+1058 69
+1058 36
+935 36
+935 69
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+935 34
+927 27
+927 35
+935 34
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+1059 68
+1066 77
+1059 77
+1058 69
+1059 68
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300618,'analogPoints')" onmouseout="OnMouseOutPid(evt,300618,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-90)">
+<g transform="rotate(-0.000000,966,45)">
+<text x="966" y="45" style="stroke: #00ff00; stroke-width: 0; fill: #00ff00; text-anchor: Start; font-size:16px; font-family:Arial;">455,90
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-754)">
+<g transform="rotate(-0.000000,872,377)">
+<text x="872" y="377" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:13px; font-family:Arial;">POTENCIA UNIDAD 2
+</text></g></g>
+<polygon points="
+872 368
+1011 368
+1011 318
+872 318
+872 368
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+1004 326
+872 326
+872 368
+1004 368
+1004 326
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+880 360
+1003 360
+1003 327
+880 327
+880 360
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+880 325
+872 318
+872 326
+880 325
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+1004 359
+1011 368
+1004 368
+1004 360
+1004 359
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300898,'analogPoints')" onmouseout="OnMouseOutPid(evt,300898,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-674)">
+<g transform="rotate(-0.000000,935,337)">
+<text x="935" y="337" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:16px; font-family:Arial;">10,00
+</text></g></g>
+</a>
+<polyline points="
+615 167
+758 167
+758 117
+615 117
+615 167
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill: none;">
+</polyline>
+<polyline points="
+616 78
+758 78
+758 28
+616 28
+616 78
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill: none;">
+</polyline>
+<polyline points="
+926 168
+1068 168
+1068 118
+926 118
+926 168
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill: none;">
+</polyline>
+<polyline points="
+926 78
+1068 78
+1068 28
+926 28
+926 78
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill: none;">
+</polyline>
+<polyline points="
+719 368
+861 368
+861 318
+719 318
+719 368
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill: none;">
+</polyline>
+<polyline points="
+871 368
+1014 368
+1014 318
+871 318
+871 368
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill: none;">
+</polyline>
+</g>
+</g>
+</svg>

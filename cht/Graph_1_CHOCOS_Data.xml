@@ -1,0 +1,16 @@
+<Graph Title="CHOCOS" Datatset="6" Width="1938" Height="1098">
+    <WindowPosition X="406" Y="87" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="910"/>
+    <Series>
+        <Point Id="300124" Qualifier="A" SeriesName="OPC_CHOCO,CHOCO_1_VOLUMEN_EMBALSE:  Volumen embalse" />
+        <Point Id="300125" Qualifier="A" SeriesName="OPC_CHOCO,CHOCO_2_VOLUMEN_EMBALSE:  Volumen embalse" />
+        <Point Id="300127" Qualifier="A" SeriesName="OPC_CHOCO,CHOCO_3_VOLUMEN_EMBALSE:  Volumen embalse" />
+        <Point Id="300134" Qualifier="A" SeriesName="OPC_CHOCO,CHOCO_1_POT_ACTIVA:  Potencia Activa" />
+        <Point Id="300135" Qualifier="A" SeriesName="OPC_CHOCO,CHOCO_2G1_POT_ACTIVA:  Potencia Activa" />
+        <Point Id="300136" Qualifier="A" SeriesName="OPC_CHOCO,CHOCO_2G2_POT_ACTIVA:  Potencia Activa" />
+        <Point Id="300137" Qualifier="A" SeriesName="OPC_CHOCO,CHOCO_3_POT_ACTIVA:  Potencia Activa" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="64" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

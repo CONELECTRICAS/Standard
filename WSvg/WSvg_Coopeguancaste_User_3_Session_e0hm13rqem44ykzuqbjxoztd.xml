@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<svg id="root" xmlns = "http://www.w3.org/2000/svg" width="100%" height="100%" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" onload="init(evt)" > 
+<script id="scrJava" xlink:href="javaScriptHtml5Svg.js" />
+<script id="scrJavaDateFormat" xlink:href="javaScriptDateFormat.js" />
+<title>SVG map</title>
+<g id = "start" next="0" previous="1" printMode="0" displayBackground="0" Time="2016/2/9 12:1:8">
+<rect id="rectStart" x="0" y="0" width="935" height="628" style="fill:#000000; stroke:#000000; stroke-width:1"/>
+<g transform="matrix(1 0 0 -1 0 628)">
+<polygon points="
+93 459
+396 459
+396 370
+93 370
+93 459
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+388 378
+93 378
+93 459
+388 459
+388 378
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+102 450
+387 450
+387 379
+102 379
+102 450
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-866)">
+<g transform="rotate(-0.000000,121,433)">
+<text x="121" y="433" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">DEMANDA NACIONAL COSTA RICA
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-1140)">
+<g transform="rotate(-0.000000,196,570)">
+<text x="196" y="570" style="stroke: #008000; stroke-width: 0; fill: #008000; text-anchor: Start; font-size:50px; font-family:Lucida Console;">COOPEGUANACASTE R.L
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-684)">
+<g transform="rotate(-0.000000,133,342)">
+<text x="133" y="342" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">DEMANDA COOPEGUANACASTE
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-388)">
+<g transform="rotate(-0.000000,121,194)">
+<text x="121" y="194" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">GENERACI&#211;N TOTAL CANALETE :
+</text></g></g>
+<polyline points="
+75 496
+414 496
+414 15
+75 15
+75 496
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill: none;">
+</polyline>
+<polygon points="
+93 512
+396 512
+396 476
+93 476
+93 512
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-974)">
+<g transform="rotate(-0.000000,130,487)">
+<text x="130" y="487" style="stroke: #748ef8; stroke-width: 0; fill: #748ef8; text-anchor: Start; font-size:19px; font-family:Arial;">INFORMACI&#211;N GENERAL
+</text></g></g>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,301048,'analogPoints')" onmouseout="OnMouseOutPid(evt,301048,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-258)">
+<g transform="rotate(-0.000000,289,129)">
+<text x="289" y="129" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: End; font-size:18px; font-family:Arial;">16.868,00
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-258)">
+<g transform="rotate(-0.000000,289,129)">
+<text x="289" y="129" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:18px; font-family:Arial;">
+</text></g></g>
+</a>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300834,'analogPoints')" onmouseout="OnMouseOutPid(evt,300834,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-774)">
+<g transform="rotate(-0.000000,208,387)">
+<text x="208" y="387" style="stroke: #00ff00; stroke-width: 0; fill: #00ff00; text-anchor: Start; font-size:18px; font-family:Arial;">1.514,09
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-192)">
+<g transform="rotate(-0.000000,147,96)">
+<text x="147" y="96" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">APORTE CONELECTRICAS
+</text></g></g>
+<g>
+<g transform="scale(1,-1) translate(0,-200)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/canalete.jpg" x="557" y="-30" width="312" height="200" preserveAspectRatio="none" />
+</g></g>
+<g transform="scale(1,-1) translate(0,-834)">
+<g transform="rotate(-0.000000,559,417)">
+<text x="559" y="417" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">Generaci&#243;n Unidad 1
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-724)">
+<g transform="rotate(-0.000000,559,362)">
+<text x="559" y="362" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">Generaci&#243;n Unidad 2
+</text></g></g>
+<polyline points="
+539 494
+878 494
+878 12
+539 12
+539 494
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill: none;">
+</polyline>
+<polygon points="
+556 512
+859 512
+859 476
+556 476
+556 512
+" style="stroke: #ffffff; fill: #ffffff;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<g transform="scale(1,-1) translate(0,-974)">
+<g transform="rotate(-0.000000,588,487)">
+<text x="588" y="487" style="stroke: #748ef8; stroke-width: 0; fill: #748ef8; text-anchor: Start; font-size:19px; font-family:Arial;">INFORMACI&#211;N CANALETE
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-612)">
+<g transform="rotate(-0.000000,559,306)">
+<text x="559" y="306" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">Nivel Toma
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-506)">
+<g transform="rotate(-0.000000,559,253)">
+<text x="559" y="253" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">Nivel Embalse
+</text></g></g>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300937,'analogPoints')" onmouseout="OnMouseOutPid(evt,300937,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-508)">
+<g transform="rotate(-0.000000,804,254)">
+<text x="804" y="254" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: End; font-size:18px; font-family:Arial;">258.96
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-508)">
+<g transform="rotate(-0.000000,804,254)">
+<text x="804" y="254" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:18px; font-family:Arial;">
+</text></g></g>
+</a>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300938,'analogPoints')" onmouseout="OnMouseOutPid(evt,300938,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-616)">
+<g transform="rotate(-0.000000,804,308)">
+<text x="804" y="308" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: End; font-size:18px; font-family:Arial;">259.22
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-616)">
+<g transform="rotate(-0.000000,804,308)">
+<text x="804" y="308" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:18px; font-family:Arial;">
+</text></g></g>
+</a>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300991,'analogPoints')" onmouseout="OnMouseOutPid(evt,300991,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-720)">
+<g transform="rotate(-0.000000,804,360)">
+<text x="804" y="360" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: End; font-size:18px; font-family:Arial;">8.479,00
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-720)">
+<g transform="rotate(-0.000000,804,360)">
+<text x="804" y="360" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:18px; font-family:Arial;">
+</text></g></g>
+</a>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300962,'analogPoints')" onmouseout="OnMouseOutPid(evt,300962,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-832)">
+<g transform="rotate(-0.000000,804,416)">
+<text x="804" y="416" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: End; font-size:18px; font-family:Arial;">8.389,00
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-832)">
+<g transform="rotate(-0.000000,804,416)">
+<text x="804" y="416" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:18px; font-family:Arial;">
+</text></g></g>
+</a>
+<polygon points="
+102 378
+93 370
+93 379
+102 378
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+388 450
+396 459
+388 459
+388 450
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+158 306
+314 306
+314 249
+158 249
+158 306
+" style="stroke: #c0c0c0; fill: #c0c0c0;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+305 259
+158 259
+158 306
+305 306
+305 259
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+167 297
+305 297
+305 260
+167 260
+167 297
+" style="stroke: #000000; fill: #000000;  stroke-width: 1; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+167 258
+159 250
+158 259
+167 258
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<polygon points="
+306 296
+314 306
+306 305
+305 296
+306 296
+" style="stroke: #5b5b5b; fill: #5b5b5b;  stroke-width: 3; fill-rule: evenodd;">
+</polygon>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300284,'analogPoints')" onmouseout="OnMouseOutPid(evt,300284,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-540)">
+<g transform="rotate(-0.000000,203,270)">
+<text x="203" y="270" style="stroke: #00ff00; stroke-width: 0; fill: #00ff00; text-anchor: Start; font-size:18px; font-family:Arial;">65.228
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-816)">
+<g transform="rotate(-0.000000,221,408)">
+<text x="221" y="408" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(MW)
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-542)">
+<g transform="rotate(-0.000000,277,271)">
+<text x="277" y="271" style="stroke: #00ff00; stroke-width: 0; fill: #00ff00; text-anchor: Start; font-size:15px; font-family:Arial;">kW
+</text></g></g>
+<a onclick="OnClickViewPushbutton(evt,'Principal','169FF610')"  >
+<g>
+<g>
+<g transform="scale(1,-1) translate(0,-61)">
+<image xlink:href="http://190.211.103.202/WVRoot/standard/bmp/ANTERIOR_BOTON.JPG" x="448" y="-26" width="51" height="61" preserveAspectRatio="none" />
+</g></g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</a>
+<g transform="scale(1,-1) translate(0,-634)">
+<g transform="rotate(-0.000000,220,317)">
+<text x="220" y="317" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(kW)
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-340)">
+<g transform="rotate(-0.000000,228,170)">
+<text x="228" y="170" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(kW)
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-142)">
+<g transform="rotate(-0.000000,228,71)">
+<text x="228" y="71" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(kW)
+</text></g></g>
+<polyline points="
+96 222
+395 222
+" style="stroke: #748ef8; fill: #748ef8;  stroke-width: 3; fill: none; stroke-dasharray: 10, 5;">
+</polyline>
+<a onmousemove="DoOnMouseMove(evt)" onmouseover="OnMouseOverPid(evt,300170,'analogPoints')" onmouseout="OnMouseOutPid(evt,300170,'analogPoints')">
+<g transform="scale(1,-1) translate(0,-58)">
+<g transform="rotate(-0.000000,289,29)">
+<text x="289" y="29" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: End; font-size:18px; font-family:Arial;">13.095,08
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-58)">
+<g transform="rotate(-0.000000,289,29)">
+<text x="289" y="29" style="stroke: #009cde; stroke-width: 0; fill: #009cde; text-anchor: Start; font-size:18px; font-family:Arial;">
+</text></g></g>
+</a>
+<g transform="scale(1,-1) translate(0,-834)">
+<g transform="rotate(-0.000000,843,417)">
+<text x="843" y="417" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(kW)
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-724)">
+<g transform="rotate(-0.000000,843,362)">
+<text x="843" y="362" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(kW)
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-616)">
+<g transform="rotate(-0.000000,820,308)">
+<text x="820" y="308" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(MSNM)
+</text></g></g>
+<g transform="scale(1,-1) translate(0,-518)">
+<g transform="rotate(-0.000000,820,259)">
+<text x="820" y="259" style="stroke: #ffffff; stroke-width: 0; fill: #ffffff; text-anchor: Start; font-size:15px; font-family:Arial;">(MSNM)
+</text></g></g>
+</g>
+</g>
+</svg>

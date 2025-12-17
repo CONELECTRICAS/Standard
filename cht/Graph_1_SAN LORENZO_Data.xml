@@ -1,0 +1,13 @@
+﻿<Graph Title="SAN LORENZO" Dataset="1" Datatset="1" Width="1920" Height="971">
+    <WindowPosition X="-1885" Y="26" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="1904" Height="851" />
+    <Series>
+        <Point Id="300035" Dataset="1" Qualifier="A" SeriesName="ICCP_PLANTAS_CONELECT,SnLorenzo_kWtot_RT:  San Lorenzo" ShowValues="False" />
+        <Point Id="300460" Dataset="1" Qualifier="A" SeriesName="SL_U1,PotenciaActiva_U1: CHSL U1 (kW)" ShowValues="False" />
+        <Point Id="300503" Dataset="1" Qualifier="A" SeriesName="SL_U2,PotenciaActiva_U2: CHSL U2 (kW)" ShowValues="False" />
+        <Point Id="300593" Dataset="1" Qualifier="A" SeriesName="SL_Subestacion,Nivel_Vertedero_Toma: Nivel de Toma (cm)" ShowValues="False" />
+        <Point Id="300528" Dataset="1" Qualifier="A" SeriesName="SL_Subestacion,rAC_Nivel: Antecamara -- Nivel de Antecamara" ShowValues="False" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="1" Hour="1" Minute="1" Second="0" SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20" />
+</Graph>

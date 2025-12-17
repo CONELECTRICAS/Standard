@@ -1,0 +1,13 @@
+﻿<Graph Title="SOLAR JUANILAMA" Dataset="38" Datatset="38" Width="1337" Height="790">
+    <WindowPosition X="344" Y="171" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="1321" Height="670" />
+    <Series>
+        <Point Id="301820" Qualifier="A" SeriesName="SOLAR_JUANILAMA,SJ_EST_MET_RADIAC_SOLAR:  SJ_EST_MET_RADIAC_SOLAR" ShowValues="False" />
+        <Point Id="301784" Qualifier="A" SeriesName="SOLAR_JUANILAMA,SJ_INVERSOR_1_KW:  SJ_INVERSOR_1_KW" ShowValues="False" />
+        <Point Id="301795" Qualifier="A" SeriesName="SOLAR_JUANILAMA,SJ_INVERSOR_2_KW:  SJ_INVERSOR_2_KW" ShowValues="False" />
+        <Point Id="301818" Qualifier="A" SeriesName="SOLAR_JUANILAMA,SJ_EST_MET_TEMP_MODULO:  SJ_EST_MET_TEMP_PANEL" ShowValues="False" />
+        <Point Id="301822" Qualifier="A" SeriesName="SOLAR_JUANILAMA,SJ_EST_MET_TEMP_AMBIENTE:  SJ_EST_MET_TEMP_AMBIENTE" ShowValues="False" />
+    </Series>
+    <TimeLabel Year="0" Month="1" Day="1" Hour="1" Minute="1" Second="0" SamplesPerPoint="32" LabelSpacing="4" PointSpacing="20" MaxSamples="1000" />
+</Graph>

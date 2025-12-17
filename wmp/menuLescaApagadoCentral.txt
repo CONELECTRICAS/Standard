@@ -1,0 +1,12 @@
+$title="Motivo"
+$pb_columns=3
+0,"Evento o avería propia"
+1,"Recuperacion de Embalse"
+2,"Mantenimiento programado"
+3,"Mantenimiento con unidad detenida"
+4,"Solicitud ICE"
+5,"Avería en otra central"
+6,"Suspensión de Corriente Programada"
+7,"Evento programado en otra central"
+8,"Falla en la red del ICE"
+9,"Falla en la red de Coopelesca"

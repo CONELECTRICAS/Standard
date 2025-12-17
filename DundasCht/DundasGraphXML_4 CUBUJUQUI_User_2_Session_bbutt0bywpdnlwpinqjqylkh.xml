@@ -1,0 +1,246 @@
+<Chart Palette="Pastel" BuildNumber="7.1.0.1812" BackColor="240, 240, 240" Width="1113" Height="337">
+  <Series>
+    <Series Name="ICCP_CUBUJ_SE,Nivel_Embalse:  Nivel Embalse (m.s.n.m)" XValueType="DateTime" YValueType="Double" PaletteCustomColors="" ShadowOffset="1" YAxisType="Secondary" ChartType="Line" Color="Magenta" BorderColor="64, 64, 64" ToolTip="#VALX{M/d/yyyy H:mm:ss},#VAL">
+      <Points>
+        <DataPoint XValue="42111.361111111109" YValues="278.917036" />
+        <DataPoint XValue="42111.347222222219" YValues="278.922583" />
+        <DataPoint XValue="42111.333333333336" YValues="278.92978" />
+        <DataPoint XValue="42111.319444444445" YValues="278.952354" />
+        <DataPoint XValue="42111.305555555555" YValues="278.972104" />
+        <DataPoint XValue="42111.291666666664" YValues="278.993716" />
+        <DataPoint XValue="42111.277777777781" YValues="279.024595" />
+        <DataPoint XValue="42111.263888888891" YValues="279.007837" />
+        <DataPoint XValue="42111.25" YValues="278.975142" />
+        <DataPoint XValue="42111.236111111109" YValues="278.90231" />
+        <DataPoint XValue="42111.222222222219" YValues="278.852002" />
+        <DataPoint XValue="42111.208333333336" YValues="278.832251" />
+        <DataPoint XValue="42111.194444444445" YValues="278.813262" />
+        <DataPoint XValue="42111.180555555555" YValues="278.803438" />
+        <DataPoint XValue="42111.166666666664" YValues="278.827915" />
+        <DataPoint XValue="42111.152777777781" YValues="278.850894" />
+        <DataPoint XValue="42111.138888888891" YValues="278.809121" />
+        <DataPoint XValue="42111.125" YValues="278.757583" />
+        <DataPoint XValue="42111.111111111109" YValues="278.704561" />
+        <DataPoint XValue="42111.097222222219" YValues="278.647388" />
+        <DataPoint XValue="42111.083333333336" YValues="278.58771" />
+        <DataPoint XValue="42111.069444444445" YValues="278.512026" />
+        <DataPoint XValue="42111.055555555555" YValues="278.439058" />
+        <DataPoint XValue="42111.041666666664" YValues="278.442251" />
+        <DataPoint XValue="42111.027777777781" YValues="278.408271" />
+        <DataPoint XValue="42111.013888888891" YValues="278.357798" />
+        <DataPoint XValue="42111" YValues="278.352646" />
+        <DataPoint XValue="42110.986111111109" YValues="278.371304" />
+        <DataPoint XValue="42110.972222222219" YValues="278.386436" />
+        <DataPoint XValue="42110.958333333336" YValues="278.400815" />
+        <DataPoint XValue="42110.944444444445" YValues="278.411997" />
+        <DataPoint XValue="42110.930555555555" YValues="278.422314" />
+        <DataPoint XValue="42110.916666666664" YValues="278.431729" />
+        <DataPoint XValue="42110.902777777781" YValues="278.440415" />
+        <DataPoint XValue="42110.888888888891" YValues="278.44522" />
+        <DataPoint XValue="42110.875" YValues="278.450322" />
+        <DataPoint XValue="42110.861111111109" YValues="278.464219" />
+        <DataPoint XValue="42110.847222222219" YValues="278.478384" />
+        <DataPoint XValue="42110.833333333336" YValues="278.527212" />
+        <DataPoint XValue="42110.819444444445" YValues="278.59022" />
+        <DataPoint XValue="42110.805555555555" YValues="278.642568" />
+        <DataPoint XValue="42110.791666666664" YValues="278.69147" />
+        <DataPoint XValue="42110.777777777781" YValues="278.737251" />
+        <DataPoint XValue="42110.763888888891" YValues="278.774004" />
+        <DataPoint XValue="42110.75" YValues="278.807305" />
+        <DataPoint XValue="42110.736111111109" YValues="278.835786" />
+        <DataPoint XValue="42110.722222222219" YValues="278.85396" />
+        <DataPoint XValue="42110.708333333336" YValues="278.87022" />
+        <DataPoint XValue="42110.694444444445" YValues="278.884204" />
+        <DataPoint XValue="42110.680555555555" YValues="278.896675" />
+      </Points>
+    </Series>
+    <Series Name="ICCP_DEMANDA_LESCA,Cubujuq_kWtot_RT:  Potencia Real Instantanea" XValueType="DateTime" YValueType="Double" PaletteCustomColors="" ShadowOffset="1" ChartType="Line" Color="Red" BorderColor="64, 64, 64" ToolTip="#VALX{M/d/yyyy H:mm:ss},#VAL">
+      <Points>
+        <DataPoint XValue="42111.361111111109" YValues="16916.25" />
+        <DataPoint XValue="42111.347222222219" YValues="16918.5" />
+        <DataPoint XValue="42111.333333333336" YValues="17650.5" />
+        <DataPoint XValue="42111.319444444445" YValues="17870.75" />
+        <DataPoint XValue="42111.305555555555" YValues="17903.5" />
+        <DataPoint XValue="42111.291666666664" YValues="18316.5" />
+        <DataPoint XValue="42111.277777777781" YValues="17602.75" />
+        <DataPoint XValue="42111.263888888891" YValues="14117.25" />
+        <DataPoint XValue="42111.25" YValues="10015" />
+        <DataPoint XValue="42111.236111111109" YValues="7017.75" />
+        <DataPoint XValue="42111.222222222219" YValues="7003.25" />
+        <DataPoint XValue="42111.208333333336" YValues="7005.5" />
+        <DataPoint XValue="42111.194444444445" YValues="7248" />
+        <DataPoint XValue="42111.180555555555" YValues="8303.75" />
+        <DataPoint XValue="42111.166666666664" YValues="10996.75" />
+        <DataPoint XValue="42111.152777777781" YValues="11008.25" />
+        <DataPoint XValue="42111.138888888891" YValues="9994" />
+        <DataPoint XValue="42111.125" YValues="9980.25" />
+        <DataPoint XValue="42111.111111111109" YValues="9982.75" />
+        <DataPoint XValue="42111.097222222219" YValues="9986.25" />
+        <DataPoint XValue="42111.083333333336" YValues="9255.5" />
+        <DataPoint XValue="42111.069444444445" YValues="8250" />
+        <DataPoint XValue="42111.055555555555" YValues="10724.75" />
+        <DataPoint XValue="42111.041666666664" YValues="13981" />
+        <DataPoint XValue="42111.027777777781" YValues="13965.5" />
+        <DataPoint XValue="42111.013888888891" YValues="14955.25" />
+        <DataPoint XValue="42111" YValues="17880.75" />
+        <DataPoint XValue="42110.986111111109" YValues="17892" />
+        <DataPoint XValue="42110.972222222219" YValues="17887" />
+        <DataPoint XValue="42110.958333333336" YValues="17880.25" />
+        <DataPoint XValue="42110.944444444445" YValues="17848.75" />
+        <DataPoint XValue="42110.930555555555" YValues="17891" />
+        <DataPoint XValue="42110.916666666664" YValues="17885.75" />
+        <DataPoint XValue="42110.902777777781" YValues="17885.75" />
+        <DataPoint XValue="42110.888888888891" YValues="17885.5" />
+        <DataPoint XValue="42110.875" YValues="18395.5" />
+        <DataPoint XValue="42110.861111111109" YValues="18837.5" />
+        <DataPoint XValue="42110.847222222219" YValues="19480" />
+        <DataPoint XValue="42110.833333333336" YValues="21881.5" />
+        <DataPoint XValue="42110.819444444445" YValues="21863.5" />
+        <DataPoint XValue="42110.805555555555" YValues="21866.5" />
+        <DataPoint XValue="42110.791666666664" YValues="21952" />
+        <DataPoint XValue="42110.777777777781" YValues="22048.75" />
+        <DataPoint XValue="42110.763888888891" YValues="22060.5" />
+        <DataPoint XValue="42110.75" YValues="22086.5" />
+        <DataPoint XValue="42110.736111111109" YValues="22064" />
+        <DataPoint XValue="42110.722222222219" YValues="22054" />
+        <DataPoint XValue="42110.708333333336" YValues="22054" />
+        <DataPoint XValue="42110.694444444445" YValues="22052.75" />
+        <DataPoint XValue="42110.680555555555" YValues="22036" />
+      </Points>
+    </Series>
+    <Series Name="ICCP_CUBUJ_G2,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" XValueType="DateTime" YValueType="Double" PaletteCustomColors="" ShadowOffset="1" ChartType="Line" Color="Blue" BorderColor="64, 64, 64" ToolTip="#VALX{M/d/yyyy H:mm:ss},#VAL">
+      <Points>
+        <DataPoint XValue="42111.361111111109" YValues="8.997561" />
+        <DataPoint XValue="42111.347222222219" YValues="8.982184" />
+        <DataPoint XValue="42111.333333333336" YValues="8.995751" />
+        <DataPoint XValue="42111.319444444445" YValues="8.998661" />
+        <DataPoint XValue="42111.305555555555" YValues="9.006826" />
+        <DataPoint XValue="42111.291666666664" YValues="9.48388" />
+        <DataPoint XValue="42111.277777777781" YValues="9.207757" />
+        <DataPoint XValue="42111.263888888891" YValues="5.130016" />
+        <DataPoint XValue="42111.25" YValues="0" />
+        <DataPoint XValue="42111.236111111109" YValues="0" />
+        <DataPoint XValue="42111.222222222219" YValues="0" />
+        <DataPoint XValue="42111.208333333336" YValues="0" />
+        <DataPoint XValue="42111.194444444445" YValues="0" />
+        <DataPoint XValue="42111.180555555555" YValues="0" />
+        <DataPoint XValue="42111.166666666664" YValues="0" />
+        <DataPoint XValue="42111.152777777781" YValues="0" />
+        <DataPoint XValue="42111.138888888891" YValues="0" />
+        <DataPoint XValue="42111.125" YValues="0" />
+        <DataPoint XValue="42111.111111111109" YValues="0" />
+        <DataPoint XValue="42111.097222222219" YValues="0" />
+        <DataPoint XValue="42111.083333333336" YValues="0" />
+        <DataPoint XValue="42111.069444444445" YValues="0" />
+        <DataPoint XValue="42111.055555555555" YValues="3.49548" />
+        <DataPoint XValue="42111.041666666664" YValues="6.990408" />
+        <DataPoint XValue="42111.027777777781" YValues="6.989551" />
+        <DataPoint XValue="42111.013888888891" YValues="7.006926" />
+        <DataPoint XValue="42111" YValues="6.993733" />
+        <DataPoint XValue="42110.986111111109" YValues="6.973553" />
+        <DataPoint XValue="42110.972222222219" YValues="6.996181" />
+        <DataPoint XValue="42110.958333333336" YValues="7.008722" />
+        <DataPoint XValue="42110.944444444445" YValues="7.006301" />
+        <DataPoint XValue="42110.930555555555" YValues="7.014802" />
+        <DataPoint XValue="42110.916666666664" YValues="7.005637" />
+        <DataPoint XValue="42110.902777777781" YValues="6.978866" />
+        <DataPoint XValue="42110.888888888891" YValues="7.005138" />
+        <DataPoint XValue="42110.875" YValues="7.524999" />
+        <DataPoint XValue="42110.861111111109" YValues="8.002961" />
+        <DataPoint XValue="42110.847222222219" YValues="8.629958" />
+        <DataPoint XValue="42110.833333333336" YValues="11.076458" />
+        <DataPoint XValue="42110.819444444445" YValues="11.10578" />
+        <DataPoint XValue="42110.805555555555" YValues="11.08597" />
+        <DataPoint XValue="42110.791666666664" YValues="11.119081" />
+        <DataPoint XValue="42110.777777777781" YValues="11.086543" />
+        <DataPoint XValue="42110.763888888891" YValues="11.078812" />
+        <DataPoint XValue="42110.75" YValues="11.085767" />
+        <DataPoint XValue="42110.736111111109" YValues="11.114948" />
+        <DataPoint XValue="42110.722222222219" YValues="11.115659" />
+        <DataPoint XValue="42110.708333333336" YValues="11.114516" />
+        <DataPoint XValue="42110.694444444445" YValues="11.115553" />
+        <DataPoint XValue="42110.680555555555" YValues="11.115678" />
+      </Points>
+    </Series>
+    <Series Name="ICCP_CUBUJ_G1,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" XValueType="DateTime" YValueType="Double" PaletteCustomColors="" ShadowOffset="1" ChartType="Line" Color="Lime" BorderColor="64, 64, 64" ToolTip="#VALX{M/d/yyyy H:mm:ss},#VAL">
+      <Points>
+        <DataPoint XValue="42111.361111111109" YValues="8.001549" />
+        <DataPoint XValue="42111.347222222219" YValues="8.032146" />
+        <DataPoint XValue="42111.333333333336" YValues="8.735807" />
+        <DataPoint XValue="42111.319444444445" YValues="8.994028" />
+        <DataPoint XValue="42111.305555555555" YValues="8.999486" />
+        <DataPoint XValue="42111.291666666664" YValues="9.083442" />
+        <DataPoint XValue="42111.277777777781" YValues="8.482703" />
+        <DataPoint XValue="42111.263888888891" YValues="9.045727" />
+        <DataPoint XValue="42111.25" YValues="10.018415" />
+        <DataPoint XValue="42111.236111111109" YValues="7.028158" />
+        <DataPoint XValue="42111.222222222219" YValues="6.992565" />
+        <DataPoint XValue="42111.208333333336" YValues="6.992226" />
+        <DataPoint XValue="42111.194444444445" YValues="7.248505" />
+        <DataPoint XValue="42111.180555555555" YValues="8.226476" />
+        <DataPoint XValue="42111.166666666664" YValues="11.024145" />
+        <DataPoint XValue="42111.152777777781" YValues="11.016327" />
+        <DataPoint XValue="42111.138888888891" YValues="10.013859" />
+        <DataPoint XValue="42111.125" YValues="9.995331" />
+        <DataPoint XValue="42111.111111111109" YValues="10.003549" />
+        <DataPoint XValue="42111.097222222219" YValues="9.990616" />
+        <DataPoint XValue="42111.083333333336" YValues="9.243272" />
+        <DataPoint XValue="42111.069444444445" YValues="8.238068" />
+        <DataPoint XValue="42111.055555555555" YValues="7.238787" />
+        <DataPoint XValue="42111.041666666664" YValues="6.987029" />
+        <DataPoint XValue="42111.027777777781" YValues="7.011802" />
+        <DataPoint XValue="42111.013888888891" YValues="7.977153" />
+        <DataPoint XValue="42111" YValues="11.002982" />
+        <DataPoint XValue="42110.986111111109" YValues="10.984355" />
+        <DataPoint XValue="42110.972222222219" YValues="11.008785" />
+        <DataPoint XValue="42110.958333333336" YValues="10.974407" />
+        <DataPoint XValue="42110.944444444445" YValues="11.022515" />
+        <DataPoint XValue="42110.930555555555" YValues="11.014573" />
+        <DataPoint XValue="42110.916666666664" YValues="11.022595" />
+        <DataPoint XValue="42110.902777777781" YValues="11.01082" />
+        <DataPoint XValue="42110.888888888891" YValues="10.988315" />
+        <DataPoint XValue="42110.875" YValues="11.008343" />
+        <DataPoint XValue="42110.861111111109" YValues="11.008559" />
+        <DataPoint XValue="42110.847222222219" YValues="10.978809" />
+        <DataPoint XValue="42110.833333333336" YValues="10.998878" />
+        <DataPoint XValue="42110.819444444445" YValues="11.014352" />
+        <DataPoint XValue="42110.805555555555" YValues="11.015685" />
+        <DataPoint XValue="42110.791666666664" YValues="11.066253" />
+        <DataPoint XValue="42110.777777777781" YValues="11.206343" />
+        <DataPoint XValue="42110.763888888891" YValues="11.196965" />
+        <DataPoint XValue="42110.75" YValues="11.199471" />
+        <DataPoint XValue="42110.736111111109" YValues="11.192241" />
+        <DataPoint XValue="42110.722222222219" YValues="11.200522" />
+        <DataPoint XValue="42110.708333333336" YValues="11.162253" />
+        <DataPoint XValue="42110.694444444445" YValues="11.207854" />
+        <DataPoint XValue="42110.680555555555" YValues="11.196712" />
+      </Points>
+    </Series>
+  </Series>
+  <ChartAreas>
+    <ChartArea BackColor="White" Name="Default">
+      <AxisY Maximum="30" Minimum="0">
+      </AxisY>
+      <AxisX LabelsAutoFit="False">
+        <MajorGrid Enabled="False" />
+        <LabelStyle IntervalOffset="Auto" Interval="1" IntervalType="Hours" Font="Arial, 8pt" FontAngle="-90" Format=" HH:mm:ss" />
+      </AxisX>
+      <AxisY2 Maximum="285" Minimum="275">
+        <MajorGrid Enabled="False" />
+      </AxisY2>
+      <Area3DStyle Enable3D="True" WallWidth="10" />
+    </ChartArea>
+  </ChartAreas>
+  <Legends>
+    <Legend Name="Default" AutoFitText="False" LegendStyle="Column" BackColor="Transparent" BorderColor="Transparent" Font="Arial, 8pt" Alignment="Center" Docking="Bottom">
+    </Legend>
+  </Legends>
+  <Titles>
+    <Title Name="TitleTop" Text="CUBUJUQUI">
+    </Title>
+    <Title Name="TitleLeft" Text="POTENCIA (MW)" Docking="Left">
+    </Title>
+    <Title Name="TitleRight" Text="NIVEL EMBALSE (msnm)&#xD;&#xD;&#xA;" Docking="Right">
+    </Title>
+  </Titles>
+</Chart>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<tree>
+<entity Type = "Root" description = "Map Views">
+<contents>
+    <entity Type = "View" description="Principal" name="Principal" mapID="Coopeguancaste"></entity>
+    <entity Type = "View" description="Tiempo_Real" name="Tiempo!uReal" mapID="Coopeguancaste"></entity>
+</contents>
+</entity>
+</tree>

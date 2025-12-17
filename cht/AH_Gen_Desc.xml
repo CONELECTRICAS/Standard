@@ -1,0 +1,32 @@
+<Chart Palette="Pastel" BuildNumber="3.6.0.1634" BackColor="240,240,240">
+    <Series>
+        <Series Name="CALCULOS,GENERAC_TOTAL:  Generacion TOTAL " XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="CALCULOS,DEMANDA_TOTAL:  Demanda TOTAL" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,255,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255" Name="Default">
+            <AxisX>
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisX>
+            <AxisY Minimum="0" Maximum="100">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisY>
+            <AxisY2 Minimum="-10" Maximum="10">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="False"  LegendStyle="Column" BackColor="Transparent"
+            BorderColor="Transparent" Alignment="Center" Docking="Top">
+        </Legend>
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="Gen">
+        </Title>
+    </Titles>
+</Chart>

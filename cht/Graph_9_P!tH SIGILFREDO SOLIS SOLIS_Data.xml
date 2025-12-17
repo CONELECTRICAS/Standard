@@ -1,0 +1,15 @@
+<Graph Title="P.H SIGILFREDO SOLIS SOLIS" Datatset="2" Width="1936" Height="1096">
+    <WindowPosition X="869" Y="268" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="904"/>
+    <Series>
+        <Point Id="300882" Qualifier="A" SeriesName="OPC_POCOSOL,POTENCIA_ACTIVA_G1:  Generador 1 -- Potencia activa (MW)" />
+        <Point Id="300830" Qualifier="A" SeriesName="OPC_POCOSOL,POTENCIA_ACTIVA_G2:  Generador 2 -- Potencia activa (MW)" />
+        <Point Id="300855" Qualifier="A" SeriesName="OPC_POCOSOL,P4_DB200_DBD1608:  AguaGata_ Potencia Activa" />
+        <Point Id="300906" Qualifier="A" SeriesName="OPC_POCOSOL,P3_DB200_DBD1424:  POTENCIA ACTIVA -- salida hacia sub. ICE" />
+        <Point Id="300609" Qualifier="A" SeriesName="OPC_POCOSOL,Nivel_Antecamara_Pocosol:  Nivel Antecamara Pocosol" />
+        <Point Id="300618" Qualifier="A" SeriesName="OPC_POCOSOL,Nivel_Toma_Pocosol:  Nivel Toma Pocosol" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

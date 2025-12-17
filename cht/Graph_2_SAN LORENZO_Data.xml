@@ -1,0 +1,15 @@
+<Graph Title="SAN LORENZO" Datatset="1" Width="1938" Height="1050">
+    <WindowPosition X="747" Y="319" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="846"/>
+    <Series>
+        <Point Id="300035" Qualifier="A" SeriesName="ICCP_PLANTAS_CONELECT,SnLorenzo_kWtot_RT:  Potencia Real Instantanea" />
+        <Point Id="300425" Qualifier="A" SeriesName="OPC_SN_LORENZO,nCM_kW:  Casa Maquinas-- Potencia Real (kW)" />
+        <Point Id="300460" Qualifier="A" SeriesName="OPC_SN_LORENZO,nU1_kW:  Generador 1 -- Potencia Real (kW)" />
+        <Point Id="300503" Qualifier="A" SeriesName="OPC_SN_LORENZO,nU2_kW:  Generador 2 -- Potencia Real (kW)" />
+        <Point Id="300528" Qualifier="A" SeriesName="OPC_SN_LORENZO,rAC_Nivel:  Antecamara -- Nivel de Antecamara" />
+        <Point Id="300593" Qualifier="A" SeriesName="OPC_SN_LORENZO,nTA_NivelVert:  Nivel Vertedero Toma" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="16" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

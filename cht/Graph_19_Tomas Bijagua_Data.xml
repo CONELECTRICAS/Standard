@@ -1,0 +1,11 @@
+﻿<Graph Title="Tomas Bijagua" Dataset="2" Datatset="2" Width="576" Height="760">
+    <WindowPosition X="1057" Y="116" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="560" Height="640" />
+    <Series>
+        <Point Id="301826" Dataset="49" Qualifier="A" SeriesName="BIJAGUA_SUB,NIVEL_RIO_ZAPOTE:  Nivel de Toma Zapote (m)" ShowValues="False" />
+        <Point Id="301827" Dataset="49" Qualifier="A" SeriesName="BIJAGUA_SUB,NIVEL_RIO_BIJAGUA:  Nivel de Toma Bijagua (m)" ShowValues="False" />
+        <Point Id="300938" Dataset="49" Qualifier="A" SeriesName="CANALETE,Nivel_de_Toma:  Nivel de Toma (cm)" ShowValues="False" />
+    </Series>
+    <TimeLabel Year="1" Month="1" Day="1" Hour="1" Minute="1" Second="0" SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20" MaxSamples="300" />
+</Graph>

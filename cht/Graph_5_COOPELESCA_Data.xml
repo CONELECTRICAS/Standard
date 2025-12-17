@@ -1,0 +1,14 @@
+<Graph Title="COOPELESCA" Datatset="14" Width="1938" Height="1050">
+    <WindowPosition X="-2" Y="-26" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="817"/>
+    <Series>
+        <Point Id="300062" Qualifier="A" SeriesName="CALCULOS,PORCION_CONELEC_LESCA_RT:  Porcion correspondiente del aporte de CONELEC a LESCA" />
+        <Point Id="300063" Qualifier="A" SeriesName="CALCULOS,GENERACION_TOTAL_CONELEC_RT:  Generacion total de CONELECT SD" />
+        <Point Id="300377" Qualifier="A" SeriesName="CALCULOS,GENERAC_PROPIA_LESCA_RT:  Generacion RT LESCA : CHOCOS + CUBUJ" />
+        <Point Id="300389" Qualifier="A" SeriesName="CALCULOS,CONSUMO_COOPELESCA_RT:  Generac. Propia + Circuitos ICE + Privadas" />
+        <Point Id="300375" Qualifier="A" SeriesName="CALCULOS,GENERAC_TOTAL_LESCA_RT:  Generacion RT LESCA : CHOCOS + CUBUJ + %CONELEC" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

@@ -1,0 +1,13 @@
+<Graph Title="COOPEGUANACASTE R.L" Datatset="18" Width="1936" Height="1056">
+    <WindowPosition X="98" Y="71" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="871"/>
+    <Series>
+        <Point Id="300170" Qualifier="A" SeriesName="CALCULOS,PORCION_CONELEC_GUANA_RT:  Porcion correspondiente del aporte de CONELEC a GUANA" />
+        <Point Id="301773" Qualifier="A" SeriesName="CALCULOS,GENERAC_PROPIA_GUANA_RT:  Generacion RT GUANA : CANALETE + BIJAGUA -- MEDIDORES EN MIRAVALLES" />
+        <Point Id="300291" Qualifier="A" SeriesName="CALCULOS,GENERAC_TOTAL_GUANA_RT:  Generacion RT Guanacaste" />
+        <Point Id="300397" Qualifier="A" SeriesName="CALCULOS,MARCA_ICE_RT_GUANA:  DEMANDA - CANALETE - %CONELECT" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="0"
+        SamplesPerPoint="64" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

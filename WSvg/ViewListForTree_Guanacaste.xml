@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<tree>
+<entity Type = "Root" description = "Map Views">
+<contents>
+    <entity Type = "View" description="Guanacaste_Principal" name="Guanacaste!uPrincipal" mapID="Guanacaste"></entity>
+</contents>
+</entity>
+</tree>

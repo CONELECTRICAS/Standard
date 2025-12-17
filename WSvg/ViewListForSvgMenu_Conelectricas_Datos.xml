@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Views>
+<menu>
+<header>Conelectricas_Datos</header>
+    <item onactivate="displayViewsList('Tiempo!uReal')">Tiempo_Real</item>
+</menu>
+</Views>

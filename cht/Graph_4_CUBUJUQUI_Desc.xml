@@ -1,0 +1,45 @@
+<Chart Palette="Pastel" BuildNumber="3.6.0.1634" BackColor="240,240,240">
+    <Series>
+        <Series Name="ICCP_CUBUJ_SE,Nivel_Embalse:  Nivel Embalse (m.s.n.m)" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="ICCP_DEMANDA_LESCA,Cubujuq_kWtot_RT:  Potencia Real Instantanea" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="255,0,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="ICCP_CUBUJ_G2,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="ICCP_CUBUJ_G1,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" XValueType="DateTime" YValueType="Double"
+            ChartType="Line" Color="0,255,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255" Name="Default">
+            <Area3DStyle Enable3D="True" WallWidth="10"
+                XAngle="30" YAngle="30"/>
+            <AxisX>
+                <MajorGrid Enabled="False" />
+            </AxisX>
+            <AxisY Minimum="0" Maximum="30">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisY>
+            <AxisY2 Minimum="275" Maximum="285">
+                <MajorGrid Enabled="False" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True"  LegendStyle="Column" BackColor="Transparent"
+            BorderColor="Transparent" Alignment="Center" Docking="Bottom">
+        </Legend>
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="CUBUJUQUI">
+        </Title>
+        <Title Name="TitleLeft" Text="POTENCIA (MW)" Docking="Left">
+        </Title>
+        <Title Name="TitleRight" Text="NIVEL EMBALSE (msnm)
+" Docking="Right">
+        </Title>
+    </Titles>
+</Chart>

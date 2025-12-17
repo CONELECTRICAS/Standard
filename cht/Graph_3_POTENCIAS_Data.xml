@@ -1,0 +1,18 @@
+﻿<Graph Title="POTENCIAS" Dataset="13" Datatset="13" Width="1536" Height="816">
+    <WindowPosition X="-2" Y="-26" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="1520" Height="696" />
+    <Series>
+        <Point Id="300134" Dataset="13" Qualifier="A" SeriesName="CHOCO_1,CHOCO_1_POT_ACTIVA:  Chocosuela 1 (kW)" ShowValues="False" />
+        <Point Id="300135" Dataset="13" Qualifier="A" SeriesName="CHOCO_2G1,CHOCO_2G1_POT_ACTIVA: Chocosuela 2 U1 (kW)" ShowValues="False" />
+        <Point Id="300136" Dataset="13" Qualifier="A" SeriesName="CHOCO_2G2,CHOCO_2G2_POT_ACTIVA: Chocosuela 2 U2 (kW)" ShowValues="False" />
+        <Point Id="300137" Dataset="13" Qualifier="A" SeriesName="CHOCO_3,CHOCO_3_POT_ACTIVA: Chocosuela 3 (kW)" ShowValues="False" />
+        <Point Id="300035" Dataset="13" Qualifier="A" SeriesName="ICCP_PLANTAS_CONELECT,SnLorenzo_kWtot_RT: San Lorenzo" ShowValues="False" />
+        <Point Id="300578" Dataset="13" Qualifier="A" SeriesName="ESPH,ESPH_MW_CIR_INDUSTRIAL: Medici¢n instant nea de Potencia Activa consumida por CIRCUITO INDUSTRIAL" ShowValues="False" />
+        <Point Id="300010" Dataset="13" Qualifier="A" SeriesName="CUBUJ_G1,POTENCIA_ACTIVA: POTENCIA ACTIVA (MW)" ShowValues="False" />
+        <Point Id="300017" Dataset="13" Qualifier="A" SeriesName="CUBUJ_G2,POTENCIA_ACTIVA: POTENCIA ACTIVA (MW)" ShowValues="False" />
+        <Point Id="300044" Dataset="13" Qualifier="A" SeriesName="ICCP_PLANTAS_CONELECT,Pocosol_kWtot_RT: Pocosol" ShowValues="False" />
+        <Point Id="300261" Dataset="13" Qualifier="A" SeriesName="ICCP_PELS_SANTOS,PELS_kWtot_RT: Generacion PELS" ShowValues="False" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1" SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20" />
+</Graph>

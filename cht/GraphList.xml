@@ -1,0 +1,55 @@
+<GraphList>
+  <Settings>
+    <EditViewSetting>
+      <DisplayMode>Auto</DisplayMode>
+    </EditViewSetting>
+  </Settings>
+  <Historical>
+    <Graph>Graph_1_CHOCOS_Data.xml</Graph>
+    <Folder Name="Historical\CHOCOSUELAS (">
+      <Graph>Graph_1_CHOCOSUELAS_Data.xml</Graph>
+      <Graph>Graph_10_CHOCOSUELAS_Data.xml</Graph>
+    </Folder>
+    <Graph>Graph_2_CONELECTRICAS R!tL_Data.xml</Graph>
+    <Graph>Graph_11_COOPEALFARORUIZ_Data.xml</Graph>
+    <Folder Name="Historical\COOPEGUANACASTE">
+      <Graph>Graph_6_COOPEGUANACASTE_Data.xml</Graph>
+      <Graph>Graph_3_COOPEGUANACASTE R!tL_Data.xml</Graph>
+    </Folder>
+    <Graph>Graph_5_COOPELESCA_Data.xml</Graph>
+    <Graph>Graph_7_COOPESANTOS_Data.xml</Graph>
+    <Folder Name="Historical\CUBUJUQUI (">
+      <Graph>Graph_4_CUBUJUQUI_Data.xml</Graph>
+      <Graph>Graph_5_CUBUJUQUI_Data.xml</Graph>
+    </Folder>
+    <Graph>Graph_4_CURVA RECORTADA COOPEGUANACASTE R!tL_Data.xml</Graph>
+    <Graph>Graph_8_DEMANDA NACIONAL_Data.xml</Graph>
+    <Graph>Graph_17_Embalses_Data.xml</Graph>
+    <Graph>Graph_20_Estaciones Met_Data.xml</Graph>
+    <Graph>Graph_12_HIDROZARCAS_Data.xml</Graph>
+    <Folder Name="Historical\P.H">
+      <Graph>Graph_14_P!tH BIJAGUA_Data.xml</Graph>
+      <Graph>Graph_10_P!tH CANALETE_Data.xml</Graph>
+      <Graph>Graph_6_P!tH CANALETE_Data.xml</Graph>
+      <Graph>Graph_13_P!tH LA ESPERANZA_Data.xml</Graph>
+      <Graph>Graph_9_P!tH SIGILFREDO SOLIS SOLIS_Data.xml</Graph>
+    </Folder>
+    <Graph>Graph_18_Potencia Solar Pocosol_Data.xml</Graph>
+    <Folder Name="Historical\POTENCIAS (">
+      <Graph>Graph_16_Potencias_Data.xml</Graph>
+      <Graph>Graph_3_POTENCIAS_Data.xml</Graph>
+    </Folder>
+    <Folder Name="Historical\SAN LORENZO (">
+      <Graph>Graph_1_SAN LORENZO_Data.xml</Graph>
+      <Graph>Graph_2_SAN LORENZO_Data.xml</Graph>
+    </Folder>
+    <Graph>Graph_15_SOLAR JUANILAMA_Data.xml</Graph>
+    <Graph>Graph_19_Tomas Bijagua_Data.xml</Graph>
+    <Graph>Graph_21_SAN LORENZO_Data.xml</Graph>
+  </Historical>
+  <Ad_Hoc>
+    <Graph>AH_Demanda_Data.xml</Graph>
+    <Graph>AH_Gen_Data.xml</Graph>
+    <Graph>AH_Parque Solar Cooperativo - Potencia_Data.xml</Graph>
+  </Ad_Hoc>
+</GraphList>

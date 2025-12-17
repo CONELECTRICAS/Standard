@@ -1,0 +1,14 @@
+<Graph Title="COOPEGUANACASTE" Datatset="14" Width="1938" Height="1050">
+    <WindowPosition X="-2" Y="-26" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="860"/>
+    <Series>
+        <Point Id="300170" Qualifier="A" SeriesName="CALCULOS,PORCION_CONELEC_GUANA_RT:  Porcion correspondiente del aporte de CONELEC a GUANA" />
+        <Point Id="300063" Qualifier="A" SeriesName="CALCULOS,GENERACION_TOTAL_CONELEC_RT:  Generacion total de CONELECT SD" />
+        <Point Id="300578" Qualifier="A" SeriesName="ICCP_DEMANDA_GUANA,CANALETE_kW:  Consumo Circuito Nvo Colon 2" />
+        <Point Id="300291" Qualifier="A" SeriesName="CALCULOS,GENERAC_TOTAL_GUANA_RT:  Generacion RT Guanacaste" />
+        <Point Id="300399" Qualifier="A" SeriesName="CALCULOS,DEMANDA_GUANAC_CALC_RT:  Nvo Colon 1-2 + Guayabal 1-2-3 + StaRita" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

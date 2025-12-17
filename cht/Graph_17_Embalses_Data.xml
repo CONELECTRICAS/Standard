@@ -1,0 +1,17 @@
+﻿<Graph Title="Embalses" Dataset="49" Datatset="49" Width="1934" Height="1094">
+    <WindowPosition X="-2" Y="103" />
+    <TraceComparison Enabled="False" />
+    <GraphControl Width="1918" Height="974" />
+    <Series>
+        <Point Id="300124" Qualifier="A" SeriesName="CHOCO_1,CHOCO_1_VOLUMEN_EMBALSE:  Volumen Choco 1" ShowValues="False" />
+        <Point Id="300125" Qualifier="A" SeriesName="CHOCO_2G1,CHOCO_2_VOLUMEN_EMBALSE:  Volumen embalse" ShowValues="False" />
+        <Point Id="300127" Qualifier="A" SeriesName="CHOCO_3,CHOCO_3_VOLUMEN_EMBALSE:  Volumen embalse" ShowValues="False" />
+        <Point Id="300108" Qualifier="A" SeriesName="CUBUJ_SE,Nivel_Embalse:  Nivel Embalse (m.s.n.m)" ShowValues="False" />
+        <Point Id="301057" Qualifier="A" SeriesName="HIDROZARCAS_U1,NIVEL_EMBALSE:  Nivel Embalse" ShowValues="False" />
+        <Point Id="301030" Qualifier="A" SeriesName="ESPERANZA_TOMA,NIVEL_EMBALSE:  Nivel del Embalse" ShowValues="False" />
+        <Point Id="300937" Qualifier="A" SeriesName="CANALETE,Nivel_de_Embalse:  Nivel_de_Embalse" ShowValues="False" />
+        <Point Id="300757" Qualifier="A" SeriesName="BIJAGUA_SUB,NIVEL_DEL_EMBALSE:  P.H.BIJAGUA - NIVEL DEL EMBALSE" ShowValues="False" />
+        <Point Id="300609" Qualifier="A" SeriesName="OPC_POCOSOL,Nivel_Antecamara_Pocosol:  Nivel Antecamara Pocosol" ShowValues="False" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="0" SamplesPerPoint="1" LabelSpacing="60" PointSpacing="1" />
+</Graph>

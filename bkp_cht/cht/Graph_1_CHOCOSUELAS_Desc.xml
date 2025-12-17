@@ -1,0 +1,53 @@
+<Chart Palette="Pastel" BuildNumber="3.6.0.1634" BackColor="240,240,240">
+    <Series>
+        <Series Name="OPC_CHOCO,CHOCO_3_POT_ACTIVA:  Potencia Activa" XValueType="DateTime" YValueType="Double"
+            ChartType="Spline" Color="255,0,128" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="OPC_CHOCO,CHOCO_2G2_POT_ACTIVA:  Potencia Activa" XValueType="DateTime" YValueType="Double"
+            ChartType="Spline" Color="0,255,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="OPC_CHOCO,CHOCO_2G1_POT_ACTIVA:  Potencia Activa" XValueType="DateTime" YValueType="Double"
+            ChartType="Spline" Color="255,255,0" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="OPC_CHOCO,CHOCO_1_POT_ACTIVA:  Potencia Activa" XValueType="DateTime" YValueType="Double"
+            ChartType="Spline" Color="255,0,255" ShadowOffset="1" YAxisType="Primary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="OPC_CHOCO,CHOCO_3_VOLUMEN_EMBALSE:  Volumen embalse" XValueType="DateTime" YValueType="Double"
+            ChartType="Spline" Color="255,0,0" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="OPC_CHOCO,CHOCO_2_VOLUMEN_EMBALSE:  Volumen embalse" XValueType="DateTime" YValueType="Double"
+            ChartType="Spline" Color="0,0,255" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+        <Series Name="OPC_CHOCO,CHOCO_1_VOLUMEN_EMBALSE:  Volumen embalse" XValueType="DateTime" YValueType="Double"
+            ChartType="Spline" Color="0,255,0" ShadowOffset="1" YAxisType="Secondary" BorderColor="64,64,64" BorderWidth="1">
+        </Series>
+    </Series>
+    <ChartAreas>
+        <ChartArea BackColor="255,255,255" Name="Default">
+            <Area3DStyle Enable3D="True" WallWidth="10"
+                XAngle="30" YAngle="30"/>
+            <AxisX>
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisX>
+            <AxisY Minimum="0" Maximum="7300">
+                <MajorGrid LineWidth="1" LineColor="255,255,255" Enabled="True" />
+            </AxisY>
+            <AxisY2 Minimum="2000" Maximum="60000">
+                <MajorGrid LineWidth="1" LineColor="0,0,0" Enabled="True" />
+            </AxisY2>
+        </ChartArea>
+    </ChartAreas>
+    <Legends>
+        <Legend Name="Default" Enabled="True"  LegendStyle="Column" BackColor="Transparent"
+            BorderColor="Transparent" Alignment="Center" Docking="Bottom">
+        </Legend>
+    </Legends>
+    <Titles>
+        <Title Name="TitleTop" Text="CHOCOSUELAS">
+        </Title>
+        <Title Name="TitleLeft" Text="POTENCIA (kW)" Docking="Left">
+        </Title>
+        <Title Name="TitleRight" Text="VOLUMEN EMBALSE" Docking="Right">
+        </Title>
+    </Titles>
+</Chart>

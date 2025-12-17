@@ -1,0 +1,13 @@
+<Graph Title="P.H LA ESPERANZA" Datatset="15" Width="1936" Height="1096">
+    <WindowPosition X="0" Y="-24" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="956"/>
+    <Series>
+        <Point Id="300373" Qualifier="A" SeriesName="ICCP_PH_PRIVADAS_LESCA,PH_ESPERANZA_kW_SD:  Potencia Real SD (kW)" />
+        <Point Id="301030" Qualifier="A" SeriesName="ESPERANZA_TOMA,NIVEL_EMBALSE:  Nivel del Embalse" />
+        <Point Id="301028" Qualifier="A" SeriesName="ESPERANZA_U1,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" />
+        <Point Id="301037" Qualifier="A" SeriesName="ESPERANZA_U2,POTENCIA_ACTIVA:  POTENCIA ACTIVA (MW)" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

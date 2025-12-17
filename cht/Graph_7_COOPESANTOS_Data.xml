@@ -1,0 +1,14 @@
+<Graph Title="COOPESANTOS" Datatset="14" Width="1936" Height="1096">
+    <WindowPosition X="449" Y="-36" Maximized="True"/>
+    <TraceComparison Enabled="False"/>
+    <GraphControl width="1920" height="908"/>
+    <Series>
+        <Point Id="300168" Qualifier="A" SeriesName="CALCULOS,PORCION_CONELEC_SANTOS_RT:  Porcion correspondiente del aporte de CONELEC a SANTOS" />
+        <Point Id="300602" Qualifier="A" SeriesName="CALCULOS,MARCA_ICE_RT_SANTOS:  CONSUMO - %CONELECTRICAS" />
+        <Point Id="300269" Qualifier="A" SeriesName="CALCULOS,GENERAC_TOTAL_SANTOS_RT:  Generacion RT Santos" />
+        <Point Id="300581" Qualifier="A" SeriesName="CALCULOS,CONSUMO_SANTOS_RT:  Acosta + Lucha + Naranjito + Sub Reduct. 1 + PELS" />
+        <Point Id="300261" Qualifier="A" SeriesName="ICCP_PELS_SANTOS,PELS_kWtot_RT:  Potencia Real Instantanea" />
+    </Series>
+    <TimeLabel Year="0" Month="0" Day="0" Hour="1" Minute="1" Second="1"
+        SamplesPerPoint="1" LabelSpacing="4" PointSpacing="20"/>
+</Graph>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tree>
+<entity Type = "Root" description = "Map Views">
+<contents>
+    <entity Type = "View" description="PRINCIPAL" name="PRINCIPAL" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="CUBUJ_01" name="CUBUJ!u01" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="LESCA_DISTRIB" name="LESCA!uDISTRIB" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="GENERAL" name="GENERAL" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="MAXIMAS_EMBALSES_LESCA" name="MAXIMAS!uEMBALSES!uLESCA" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="GENERACION_TOTAL" name="GENERACION!uTOTAL" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="GENERAC_LESCA" name="GENERAC!uLESCA" mapID="ULTIMA_VERSION"></entity>
+    <entity Type ="Folder" description="NO_ABRIR">
+        <contents>
+            <entity Type = "View" description="MACHOTE" name="MACHOTE" mapID="ULTIMA_VERSION"></entity>
+            <entity Type = "View" description="ARRANQ_CH1" name="ARRANQ!uCH1" mapID="ULTIMA_VERSION"></entity>
+        </contents>
+    </entity>
+    <entity Type = "View" description="CHOCOS_4" name="CHOCOS!u4" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="SANTOS" name="SANTOS" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="GUANA" name="GUANA" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="MAXIMAS" name="MAXIMAS" mapID="ULTIMA_VERSION"></entity>
+    <entity Type ="Folder" description="SN_LORENZO">
+        <contents>
+            <entity Type ="Folder" description="PRUEBAS_SL">
+                <contents>
+                    <entity Type = "View" description="SN_LORENZO" name="SN!uLORENZO" mapID="ULTIMA_VERSION"></entity>
+                </contents>
+            </entity>
+            <entity Type = "View" description="SN_LORENZO_CONTROL" name="SN!uLORENZO!uCONTROL" mapID="ULTIMA_VERSION"></entity>
+            <entity Type = "View" description="SNLORENZO_UNIFILAR" name="SNLORENZO!uUNIFILAR" mapID="ULTIMA_VERSION"></entity>
+            <entity Type = "View" description="SNLORENZO_MEDICIONES" name="SNLORENZO!uMEDICIONES" mapID="ULTIMA_VERSION"></entity>
+        </contents>
+    </entity>
+    <entity Type ="Folder" description="POCOSOL">
+        <contents>
+            <entity Type = "View" description="POCOSOL_UNIFILAR" name="POCOSOL!uUNIFILAR" mapID="ULTIMA_VERSION"></entity>
+            <entity Type = "View" description="POCOSOL_PRINCIPAL" name="POCOSOL!uPRINCIPAL" mapID="ULTIMA_VERSION"></entity>
+        </contents>
+    </entity>
+    <entity Type ="Folder" description="CANALETE">
+        <contents>
+            <entity Type = "View" description="CANALETE_PRINCIPAL" name="CANALETE!uPRINCIPAL" mapID="ULTIMA_VERSION"></entity>
+        </contents>
+    </entity>
+    <entity Type = "View" description="HIDROZARCAS" name="HIDROZARCAS" mapID="ULTIMA_VERSION"></entity>
+    <entity Type = "View" description="ESPERANZA" name="ESPERANZA" mapID="ULTIMA_VERSION"></entity>
+</contents>
+</entity>
+</tree>
